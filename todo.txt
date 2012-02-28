@@ -1,0 +1,3 @@
+- crawlear a web atrás de dados dos alunos da platéia
+  - library em node para ler csv
+  
