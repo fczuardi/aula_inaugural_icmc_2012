@@ -1,8 +1,9 @@
 //lynx installed on your machine is required
-var   query = {'name':/^f/i} //students with name starting in A
+var   query = {'name':/^z/i} //students with name starting in A
     , query_options = {'sort':'name'}
     , timer = 0
-    , timer_increment = 2000;
+    , timer_increment = 2000
+    , semaforo = 0;
 
 var   mongodb = require("mongodb")
     , urllib = require('url')
@@ -18,11 +19,12 @@ var   mongoserver = new mongodb.Server(db_host, db_port, db_server_options)
     , db_connector = new mongodb.Db(db_name, mongoserver, db_options);
 
 var   google_search_url = "http://www.google.com/search?q=";
+var   duck_search_url = "http://www.duckduckgo.com?q=";
 
 function getGoogleResults(item, collection) {
 
-  console.log(item);
-  return false;
+  // console.log(item);  
+  // return false;
   
   var google_results = spawn('lynx', ['-dump', '-listonly', 
                               google_search_url + 
@@ -50,8 +52,57 @@ function getGoogleResults(item, collection) {
     this.collection.update({'_id':this.item._id}, {$set:{'google_results_filtered':results}});
     console.log(this.item);
     console.log(results);
+    setTimeout(function(){
+      semaforo--;
+      console.log('AAAA ',semaforo);
+      if(semaforo==0){
+        console.log('end');
+        db_connector.close();
+      }
+    }, 4000);
   });
   google_results.stderr.on('data', function (data) {
+    console.log('stderr: ' + data);
+    message.say('stderr: ' + data);
+  });
+}
+
+function getDuckResults(item, collection) {
+
+  // console.log(item);
+  // return false;
+  // 
+  var duck_results = spawn('lynx', ['-dump', '-listonly', 
+                              duck_search_url + 
+                              encodeURI('"'+item.name+'" -fuvest -"usp.br"')]);
+  duck_results.item = item;
+  duck_results.collection = collection;
+  duck_results.stdout.on('data', function (data) {
+    this.data += data;
+  });     
+  duck_results.on('exit', function (code) {
+    var   duck_url_pattern = new RegExp("^[^h]*", 'gm')
+        , url_pattern = new RegExp("^http[^\&]*", 'gm')
+        , search_output = this.stdout.data.toString()
+        , results = search_output.replace(duck_url_pattern,'').match(url_pattern);
+    
+    console.log(this.item.name);
+    console.log(search_output);
+    if (!results) {
+      console.log(search_output);
+    }
+    results = results.map(function(url){
+      return unescape(url);
+    })
+    
+    delete results[0];
+    
+
+    // this.collection.update({'_id':this.item._id}, {$set:{'google_results_filtered':results}});
+    console.log(this.item);
+    console.log(results);
+  });
+  duck_results.stderr.on('data', function (data) {
     console.log('stderr: ' + data);
     message.say('stderr: ' + data);
   });
@@ -63,10 +114,12 @@ db_connector.open(function(err, db){
     var stream = collection.find(query, query_options).streamRecords();
     // var stream = collection.find().streamRecords();
     stream.on("data", function(item) {
+      semaforo++;
       // console.log(item);
       // console.log(collection);
-      timer += timer_increment;
+      timer += timer_increment+Math.random()*timer_increment;
       setTimeout(function (){ getGoogleResults(item, collection) }, timer, item, collection);
+      // setTimeout(function (){ getDuckResults(item, collection) }, timer, item, collection);
     });
     stream.on("end", function() {
       
