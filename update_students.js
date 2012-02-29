@@ -67,47 +67,6 @@ function getGoogleResults(item, collection) {
   });
 }
 
-function getDuckResults(item, collection) {
-
-  // console.log(item);
-  // return false;
-  // 
-  var duck_results = spawn('lynx', ['-dump', '-listonly', 
-                              duck_search_url + 
-                              encodeURI('"'+item.name+'" -fuvest -"usp.br"')]);
-  duck_results.item = item;
-  duck_results.collection = collection;
-  duck_results.stdout.on('data', function (data) {
-    this.data += data;
-  });     
-  duck_results.on('exit', function (code) {
-    var   duck_url_pattern = new RegExp("^[^h]*", 'gm')
-        , url_pattern = new RegExp("^http[^\&]*", 'gm')
-        , search_output = this.stdout.data.toString()
-        , results = search_output.replace(duck_url_pattern,'').match(url_pattern);
-    
-    console.log(this.item.name);
-    console.log(search_output);
-    if (!results) {
-      console.log(search_output);
-    }
-    results = results.map(function(url){
-      return unescape(url);
-    })
-    
-    delete results[0];
-    
-
-    // this.collection.update({'_id':this.item._id}, {$set:{'google_results_filtered':results}});
-    console.log(this.item);
-    console.log(results);
-  });
-  duck_results.stderr.on('data', function (data) {
-    console.log('stderr: ' + data);
-    message.say('stderr: ' + data);
-  });
-}
-
 db_connector.open(function(err, db){
   if (err){ throw(err); }
   db.collection('alunos', function(err, collection){

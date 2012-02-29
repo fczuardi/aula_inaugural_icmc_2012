@@ -1,0 +1,2623 @@
+alunos = [
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Adriana Akemi Kohara",
+    "usp_number": "7987630",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp%3Fcod_system%3D4%26cod_funcao%3D11%26param1%3D4534%26param2%3D3809%26param3%3D4970"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb667"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Alan Nishimori Araujo",
+    "usp_number": "8066328",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html%3Fpage%3D20"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb608"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Alberice Lucas de Araujo",
+    "usp_number": "7986563",
+    "google_results_filtered": ["http://www.doctoralia.com.br/medico/heraldo%2Bjose%2Baraujo%2Bcarneiro-10602253", 
+                                "http://www.ufpel.edu.br/lista_espera_enem_2012/Odontologia.txt", 
+                                "http://www.pgr.mpf.gov.br/conheca-o-mpf/procuradores-e-procuradorias/estados_municipios", 
+                                "http://www2.tvcultura.com.br/aloescola/infantis/chuachuagua/colegiomadrecabrini.htm", 
+                                "http://www.consulplanmg.com/upload/concursosarq/consulplan_RESULTADO%2520CARGOS%2520QUE%2520FAR%25C3%2583O%2520PROVA%2520PR%25C3%2581TIC9588.pdf", 
+                                "http://www.oabbentogoncalves.org.br/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D87%26Itemid%3D48", 
+                                "http://www.copeve.ufv.br/espera-sisu-caf.xml", 
+                                "http://www.jusbrasil.com.br/diarios/5492775/dosp-cidade-29-05-2010-pg-131", 
+                                "http://www.defensoria.sp.gov.br/dpesp/Conteudos/Noticias/NoticiaMostra.aspx%3FidItem%3D4157%26idPagina%3D3172", 
+                                "http://judokanbosch.blogspot.com/p/aniversariantes.html"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb693"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Alisson Mateus de Oliveira Magalhaes",
+    "usp_number": "8066287",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp%3Fcod_system%3D4%26cod_funcao%3D11%26param1%3D4534%26param2%3D3809%26param3%3D5394"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb609"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Allan Zuffo",
+    "usp_number": "7234891",
+    "google_results_filtered": ["http://www.flogao.com.br/allanzuffo/profile", 
+                                "http://pt-br.facebook.com/people/Allan-Zuffo/100002233818386", 
+                                "http://pt-br.facebook.com/people/Allan-Vandouser-Vandouser/100002010417059", 
+                                "http://pt-br.facebook.com/people/Allan-Eiji/100000474400491", 
+                                "http://es-la.facebook.com/people/Allan-Santamaria-Salas/100001671766226"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb60a"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Ana Cristina Gomes Real",
+    "usp_number": "6909522",
+    "google_results_filtered": ["http://br.linkedin.com/pub/ana-cristina-gomes-real/29/7a0/8aa", 
+                                "http://www.linkedin.com/pub/dir/Cristina/Gomes", 
+                                "http://br.linkedin.com/pub/dir/Ana%2BCristina/Gomes", 
+                                "http://www.linkedin.com/pub/dir/Ana%2Bcristina/Gomes", 
+                                "http://br.linkedin.com/pub/dir/Cristina/Gomes", 
+                                "http://www.linkedin.com/pub/dir/Ana/Real", 
+                                "http://www.linkedin.com/directory/people/gomesribeiro.html", 
+                                "http://www.jusbrasil.com.br/diarios/231713/dou-secao-3-04-07-2002-pg-69", 
+                                "http://www.jusbrasil.com.br/diarios/292164/dou-secao-3-04-05-2004-pg-22", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb694"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Ana Maria Gonzaga Shiraishi",
+    "usp_number": "7277120",
+    "google_results_filtered": ["http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb679"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Ana Paula Centanin Bertho",
+    "usp_number": "7987244",
+    "google_results_filtered": ["http://www.orsola.com.br/%3Fq%3Dfalecimentos%26page%3D40", 
+                                "http://www.orsola.com.br/%3Fq%3Dfalecimentos%26page%3D39", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/pdf/1165338540--Despesa_do_dia_21022007.pdf", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/pdf/1197998241--Relacao_Nominal_Funcoes_Gratificadas_31_07_08.pdf", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/pdf/1134042911--ANEXO_PREGAO_N-067-2006.PDF", 
+                                "http://www.jusbrasil.com.br/diarios/420238/dou-secao-3-08-01-2009-pg-115", 
+                                "http://www.cespe.unb.br/concursos/_antigos/2006/SESI2006/arquivos/ED_SESI_SP_2006_RES_FIN_CONC.PDF", 
+                                "http://www.scribd.com/doc/40019700/perdidos-na-terra", 
+                                "http://jcconcursos.uol.com.br/arquivos/pdf/PM_Matricula_-_anexo_V_16480.pdf", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb60b"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Anaya Gimenes Ferreira",
+    "usp_number": "8066457",
+    "google_results_filtered": ["http://www.sedmagdalena.gov.co/webvieja/Archivos/ABRIL2010/docen%2520activos.pdf", 
+                                "http://bibliopoemes.blogspot.com/2012/01/canciones-de-garcinino-de-beatriz.html", 
+                                "http://en.wikipedia.org/wiki/C.D._%25C3%2581guila", 
+                                "http://www.saime.gob.ve/gacetas/gace/Gaceta%25205819/GACETA%2520NACIONAL%252022.772.pdf", 
+                                "http://wimheitinganl.wordpress.com/2012/02/04/lauren-goodger-leaving-anaya-nightclub-in-london-february-2-2012/", 
+                                "http://ocio.diariodemallorca.es/cine/peliculas/filmografia-alexandra-jimenez-act45573.html", 
+                                "http://es-es.facebook.com/people/Rebeca-Gim%25C3%25A9nez/100002206133177", 
+                                "http://elias-blanco.blogspot.com/2012/01/felix-alfonso-granado-anaya.html", 
+                                "http://www.ijdb.ehu.es/web/contents.php%3Fvol%3D53%26issue%3D8-9-10", 
+                                "http://www.cidadesp.edu.br/new/II_ciclo_de_palestras/programacao.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb60c"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Andre Badawi Missaglia",
+    "usp_number": "8066523",
+    "google_results_filtered": ["http://br.linkedin.com/pub/andr%25C3%25A9-badawi-missaglia/38/114/a2b", 
+                                "http://www.dombosco.br/destaques.php%3Fcodigo%3D8", 
+                                "http://www.dombosco.br/destaques.php%3Fcodigo%3D21", 
+                                "http://www.nacionalnet.com.br/portal/default.asp%3Fcod_system%3D4%26cod_funcao%3D11%26param1%3D4534%26param2%3D3809%26param3%3D6043", 
+                                "http://domboscoam.blogspot.com/2011_10_01_archive.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb60d"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Andre Escanuela Vaz",
+    "usp_number": "8084131",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp%3Fcod_system%3D4%26cod_funcao%3D11%26param1%3D4534%26param2%3D3809%26param3%3D6492"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb60e"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Andre Franciscato Paggi",
+    "usp_number": "8066353",
+    "google_results_filtered": ["http://opoeta.opvs.org/archives/109", 
+                                "http://www.wix.com/lordmistery/matematicaefisica", 
+                                "http://www.baixaki.com.br/download/games-for-windows.htm", 
+                                "http://www.baixaki.com.br/comentarios.asp%3Fcod%3D61351", 
+                                "http://info.abril.com.br/forum-antigo/topicos.php%3Farea%3D130%26go_to%3D8", 
+                                "http://www.portugal.gov.pt/media/416137/2011_convocados_estrangeiro.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb60f"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Andre Lucas de Paula Moreira do Prado",
+    "usp_number": "7985990",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp%3Fcod_system%3D4%26cod_funcao%3D11%26param1%3D4534%26param2%3D3809%26param3%3D5991"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb67a"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Anna Laura Faleco Rodrigues",
+    "usp_number": "8065904",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Anna-Laura-Fal%25C3%25A9co/100000966737875", 
+                                "http://www.facebook.com/people/Laura-Jade-Morris/518756831", 
+                                "http://www.facebook.com/people/Laura-Ann-Day/1838208431", 
+                                "http://www.facebook.com/people/Anna-Dawson/518800530", 
+                                "http://www.mp.sp.gov.br/portal/page/portal/home/interna/concursos/84_concurso/N%25C2%25BA%2520453.doc", 
+                                "http://www.meruoca.ce.gov.br/prefeitura/texto.php%3FId%3D1530%26Menu%3D72", 
+                                "http://www.origemdonome.com/ver_todos_os_nomes.html", 
+                                "http://www.jusbrasil.com.br/diarios/28599806/djpr-27-05-2011-pg-477", 
+                                "http://www.sindpmt.com/quem-somos.htm", 
+                                "http://eapic.com.br/index.asp%3FMODULO%3Dnoticias_nivel_02%26MATERIA%3D240"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb67b"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Anna Paula Pawlicka Maule",
+    "usp_number": "4624650",
+    "google_results_filtered": ["http://www.kierzbun.pl/nowe2006.htm", 
+                                "http://www.cmdmc.com.br/sudoku/ranking.php", 
+                                "http://adventurusvitalina.blogspot.com/2011/01/culinaria-malasia-vi.html", 
+                                "http://adventurusvitalina.blogspot.com/2011/01/culinaria-malasia-v.html", 
+                                "http://adventurusvitalina.blogspot.com/2011/01/culinaria-krentenbollen.html", 
+                                "http://adventurusvitalina.blogspot.com/2011/01/culinaria-comida-chinesa-iii.html", 
+                                "http://adventurusvitalina.blogspot.com/2011/01/culinaria-comida-chinhesa-na-malasia-ii.html", 
+                                "http://adventurusvitalina.blogspot.com/2011/01/culinaria-malasia-iv.html", 
+                                "http://adventurusvitalina.blogspot.com/2011/01/culianaria-malasia.html", 
+                                "http://adventurusvitalina.blogspot.com/2011/01/culinaria-china.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb610"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Antonio Andr\u00e9 da Silva Baptista",
+    "usp_number": "6402785",
+    "google_results_filtered": ["http://www.camararioclaro.sp.gov.br/Noticias/Rerratificacao.pdf", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/concursos2012/13-02-12-PMSC-Concurso-convocacao-provaobjetiva-CP376ao381.pdf", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb67c"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Antonio Carlos Moreira Lopes Junior",
+    "usp_number": "7987290",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp%3Fcod_system%3D4%26cod_funcao%3D11%26param1%3D4534%26param2%3D3809%26param3%3D4965", 
+                                "http://www.colegiosaomateus.net/capa/pagina.asp%3Fpagina%3DOPF"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb611"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Antonio Marcos Severino dos Santos",
+    "usp_number": "8066700",
+    "google_results_filtered": ["http://jcconcursos.uol.com.br/arquivos/pdf/Sabesp_Locais_de_prova_-_pagina_2_10145.pdf"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb668"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Augusto Elias de Matos Lazaro",
+    "usp_number": "7656018",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp%3Fcod_system%3D4%26cod_funcao%3D11%26param1%3D4534%26param2%3D3809%26param3%3D5861"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb612"
+    }
+},
+{
+    "course_name": "Bacharelado em Matem\u00e1tica Aplicada e Computa\u00e7\u00e3o Cient\u00edfica",
+    "name": "Aulos Plautius Martines Marino",
+    "usp_number": "7986409",
+    "google_results_filtered": ["http://uts.cc.utexas.edu/~timmoore/AncientMusicSelectedBibliography.html", 
+                                "http://www.camposdojordaocultura.com.br/fotografiassemanais2.asp%3FSemana%3D23", 
+                                "http://www.camposdojordaocultura.com.br/fotografiassemanais2.asp%3FSemana%3D38", 
+                                "http://www.camposdojordaocultura.com.br/fotografiassemanais2.asp%3FSemana%3D46", 
+                                "http://repositorio-aberto.up.pt/bitstream/10216/9381/2/homenagemmvilelavol1completo000065979.pdf", 
+                                "http://www.casaruibarbosa.gov.br/cordel/bibliografia/FCRB_BibliografiaCordel_livros.pdf", 
+                                "http://observatoriocomunitario.blogspot.com/2010_08_13_archive.html", 
+                                "http://www.silvajardim.rj.gov.br/index.php%3Foption%3Dcom_docman%26task%3Ddoc_download%26gid%3D272%26Itemid%3D41", 
+                                "http://veja.abril.com.br/blog/ricardo-setti/politica-cia/escrevi-que-nao-me-orgulho-de-ter-um-presidente-semi-analfabeto-e-estou-recebendo-centenas-de-insultos-sera-que-essa-turma-nao-tem-nenhum-argumento/", 
+                                "http://elseisdoble.blogia.com/temas/personajes.-entrevistas.php"],
+    "course_code": "55060",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb660"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Bernardo Augusto do Prado Rivas",
+    "usp_number": "7987585",
+    "google_results_filtered": ["http://www.escolasesc.com.br/?secao=78257&categoria=78354&id_noticia=301636", 
+                                "http://www.escolasesc.com.br/public/files/101.pdf", 
+                                "http://www.puc-rio.br/desafios/mat_resultado.html", 
+                                "http://www.jusbrasil.com.br/diarios/33338651/doerj-publicacoes-a-pedido-19-12-2011-pg-4", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=6057", 
+                                "http://elciomourao.files.wordpress.com/2011/06/lnfm_rodada_1.pdf"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb669"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Brena Harue Morey Marchi",
+    "usp_number": "7062580",
+    "google_results_filtered": ["http://www.123people.co.uk/s/caroline+gagliardi", 
+                                "http://processoseletivo.fusp.org.br/Editais/Edital82.pdf", 
+                                "http://www.jusbrasil.com.br/diarios/27499640/dou-secao-3-07-06-2011-pg-158", 
+                                "http://www.jusbrasil.com.br/diarios/28649706/dou-secao-3-20-07-2011-pg-170", 
+                                "http://www.jusbrasil.com.br/diarios/27004497/dou-secao-3-26-05-2011-pg-158", 
+                                "http://www.ifsp.edu.br/index.php?option=com_phocadownload&view=category&download=720:classificao-vagas-remanescentes&id=55:1-semestre-2011&Itemid=149", 
+                                "http://www.investe.sp.gov.br/arquivos/editaldeconvocacao.pdf", 
+                                "http://do.arquivohistorico.com/br/diarios-da-uniao-dou/3-secao-dou3/2011-05-06/18927-pg.165", 
+                                "http://do.arquivohistorico.com/br/diarios-da-uniao-dou/3-secao-dou3/2011-04-11/19716-pg.161", 
+                                "http://do.arquivohistorico.com/br/diarios-da-uniao-dou/3-secao-dou3/2011-03-02/2335-pg.159"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb66a"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Bruno Daniel Sanches da Silva",
+    "usp_number": "8066544",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=6432"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb613"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Bruno Henrique Pereira de Lemos",
+    "usp_number": "7987122",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=6251"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb614"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Caio Burza Assis",
+    "usp_number": "8066422",
+    "google_results_filtered": ["http://www.mogiguacuacontece.com/m-0018.htm", 
+                                "http://portalmegaphone.com.br/press/?p=12303", 
+                                "http://portalmegaphone.com.br/press/?p=11226", 
+                                "http://portalmegaphone.com.br/press/?p=12811", 
+                                "http://portalmegaphone.com.br/press/?p=9964", 
+                                "http://portalmegaphone.com.br/press/?p=9480", 
+                                "http://portalmegaphone.com.br/press/?p=12170", 
+                                "http://portalmegaphone.com.br/press/?p=3358", 
+                                "http://www.123people.co.uk/s/caroline+xavier"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb615"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Caio Cesar Pinheiro Flores",
+    "usp_number": "8066530",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=18", 
+                                "http://www.cristovao.com.br/default.asp?pag=futebol&id_cat=28&pag2=equipes&codEv=38", 
+                                "http://caak.com.br/"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb616"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Caio de Sa Lopes",
+    "usp_number": "7987007",
+    "google_results_filtered": ["http://en.wikipedia.org/wiki/Caio_Ribeiro", 
+                                "http://www.facebook.com/people/Caio-Sa/100000739327381", 
+                                "http://www.youtube.com/watch?v=XF8OSdNYsbs", 
+                                "http://www.musarara.com.br/16-anos-sem-caio-fernando-abreu", 
+                                "http://twitter.com/caieralopes", 
+                                "http://twitter.com/caiornp", 
+                                "http://sylvester.org/research/knowledgebase/scientist/c_rocha%20lima", 
+                                "http://www.webforce.com.br/eng/about-us.php", 
+                                "http://people.forbes.com/profile/caio-racy-mattar/21909", 
+                                "http://www.ibirataianoticias.net/2011/12/ibirataia-elmar-lopes-e-caio-pina-sao.html", 
+                                "http://www.youtube.com/watch?v=XF8OSdNYsbs"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb617"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Camila Katiely Assis de Sousa",
+    "usp_number": "8065755",
+    "google_results_filtered": ["http://www.obmep.org.br/classificadosAlunosFase2.do;jsessionid=0A082A0E5B4EA48D45CE1EF2089B90E8?mecCode=35290671"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb67d"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Camila Ladeira Vieira",
+    "usp_number": "7986121",
+    "google_results_filtered": ["http://www.cmdmc.com.br/sudoku/ranking.php"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb67e"
+    }
+},
+{
+    "course_name": "Bacharelado em Matem\u00e1tica Aplicada e Computa\u00e7\u00e3o Cient\u00edfica",
+    "name": "Camila de Moraes Paulino",
+    "usp_number": "8066012",
+    "google_results_filtered": ["http://portugauss.blogspot.com/2011/03/aula-1-questionamento-de-preconceitos_7966.html"],
+    "course_code": "55060",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb661"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Carlos Fernando Colodetti Filho",
+    "usp_number": "8066478",
+    "google_results_filtered": ["http://www.facebook.com/people/Carlos-Fernando-Colodetti-Filho/1806973484", 
+                                "http://pt-br.facebook.com/mgueirosfilho", 
+                                "http://zh-tw.facebook.com/juancarlos.arellanoalvarez1?ref=fs", 
+                                "http://www.ccv.ufes.br/Divulgar_2012/Etp1_ENGENHARIAELETRICA.htm", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=6231"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb618"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Carlos Humberto dos Santos Baqueta",
+    "usp_number": "7987456",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=15", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=5860"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb619"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Carolina Zenero de Souza",
+    "usp_number": "7548098",
+    "google_results_filtered": ["http://www.viamedico.com.br/dentista/tania-mara-zenero", 
+                                "http://docs.exdat.com/docs/index-191688.html?page=22", 
+                                "http://cnes.datasus.gov.br/Mod_Ind_Profissional_Listar.asp?Vcbo=223208&VListar=1&VEstado=35&VMun=", 
+                                "http://www.divinaprovidencia.org.br/bancoimg/090601121509divininhoesp.pdf", 
+                                "http://www2.imagenet.com.br/ccs/ccs.exe/texto?codigo=2177", 
+                                "http://www.mapadasartes.com.br/rendersalao.php?id=13", 
+                                "http://www.apcdpiracicaba.org.br/ssb/ss.cgi?link=ad547371&linkend=true&layout=", 
+                                "http://www.intermedici.com.br/goto/store/textos.aspx?SID=bea886a5905d3c769c726d85addd620d&id=395", 
+                                "http://www.santacasadepiracicaba.com.br/J72007.pdf", 
+                                "http://premium.klickeducacao.com.br/2006/arq_img_upload/noticias/2723/lista_de_avaliacao_de_professores_caderno_2.pdf"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb66b"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Cassiano Zaghi de Oliveira",
+    "usp_number": "7987400",
+    "google_results_filtered": ["http://prefguaranesia.mg.gov.br/paginas/conteudo2/pessoal/classificacao.pdf", 
+                                "http://www.esppconcursos.com.br/concurso/ebctsp3/docs/carteiro_araraquara.pdf", 
+                                "http://www2.camara.sp.gov.br/funcionarios/CMSP-Funcionarios.pdf", 
+                                "http://www1.previdencia.gov.br/docs/pdf/edital-01/sp.pdf", 
+                                "http://www.conssanpaolo.esteri.it/NR/rdonlyres/5E071385-C5A9-4688-98D1-6CE2CF883D0C/22263/Tabelacittadinanza_06.pdf", 
+                                "http://www.jusbrasil.com.br/diarios/4055254/dosp-poder-executivo-05-08-1945-pg-30", 
+                                "http://www.ciaar.com.br/EAOT2009/relacoes/05redacaoeaot09.pdf", 
+                                "http://www.fiamfaam.br/site/graduacao/musica/arquivos/I_Jornada_Pesquisa_Dez07.pdf", 
+                                "http://www.projetodespertar.com.br/aniver_maio.htm", 
+                                "http://files.anchietapadreee.webnode.com.br/200005545-7bcfe7cce6/8SERIE.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb61a"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Claudio Cesar Domene Junior",
+    "usp_number": "7987310",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=14"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb61b"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Clayton de Oliveira",
+    "usp_number": "7161591",
+    "google_results_filtered": ["http://en-gb.facebook.com/clayton.barrozo", 
+                                "http://pt-br.facebook.com/pages/Anderson-Clayton-de-Oliveira/133045756723709", 
+                                "http://br.linkedin.com/in/joaoclayton", 
+                                "http://www.linkedin.com/pub/dir/Clayton/De+Oliveira", 
+                                "http://br.linkedin.com/pub/marcos-clayton-de-oliveira/31/335/b10", 
+                                "http://soundcloud.com/djvjclaytoncoz", 
+                                "http://www.bolaopaulista.com.br/Clayton_Paulista/", 
+                                "http://www.zerozero.pt/jogador.php?id=88886", 
+                                "http://www.youtube.com/watch?v=WAzIUv8F7tU", 
+                                "http://pt.wikipedia.org/wiki/Usu%C3%A1rio_Discuss%C3%A3o:Mmmaick", 
+                                "http://www.youtube.com/watch?v=WAzIUv8F7tU"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb61c"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Creunivar Toledo de Abreu",
+    "usp_number": "3460973",
+    "google_results_filtered": ["http://www.saocarlos.sp.gov.br/images/stories/pdf/1165230825--Resultado_Final_Aux_Administrativo_e_Odontologico.pdf", 
+                                "http://www.esppconcursos.com.br/concurso/ebctmg1/docs/classificacao/carteiro-passos.pdf", 
+                                "http://www.jusbrasil.com.br/diarios/24877874/dou-secao-1-18-02-2011-pg-165", 
+                                "http://www.jusbrasil.com.br/diarios/646197/dou-secao-1-07-05-2009-pg-99", 
+                                "http://www.jusbrasil.com.br/diarios/387090/dou-secao-3-18-07-2007-pg-78", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb695"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Daniel Quiles Schneider",
+    "usp_number": "7985902",
+    "google_results_filtered": ["http://www.kleinwalsertal.com/no_cache/aktuell/news/news-single/hash/bfe2882c34/article/gut-und-gunstig-website-fur-kleinbetriebe.html", 
+                                "http://es-es.facebook.com/people/Daniel-Quiles-Diaz/100001463834307", 
+                                "http://www.astorwines.com/SearchResultsSingle.aspx?p=1&search=29870&searchtype=Contains", 
+                                "http://www.astorwines.com/SearchResultsSingle.aspx?p=1&search=22206&searchtype=Contains", 
+                                "http://www.reunion.com/edwinquiles/", 
+                                "http://scahweb.org/?cat=24", 
+                                "http://theparisianboy.blogspot.com/2011/03/another-man-magz-photos-daniel-jackson.html", 
+                                "http://theparisianboy.blogspot.com/2011/04/velvet-magz-photos-daniel-riera-stylist.html", 
+                                "http://ellington-somers.patch.com/announcements/ellington-high-school-2nd-quarter-honor-roll", 
+                                "http://www.phillyrapsheet.com/index.php?sortBy=officer&name=Corson,%20Daniel%20M"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb67f"
+    }
+},
+{
+    "course_name": "Bacharelado em Matem\u00e1tica Aplicada e Computa\u00e7\u00e3o Cient\u00edfica",
+    "name": "Daniel Quirino Oliveira",
+    "usp_number": "3371104",
+    "google_results_filtered": ["http://www.flickr.com/photos/danielqo/", 
+                                "http://www.flickr.com/people/danielqo/", 
+                                "http://www.facebook.com/dqoliveira", 
+                                "http://br.linkedin.com/in/danielqo", 
+                                "http://www.devmedia.com.br/space.asp?id=156876", 
+                                "http://www.guj.com.br/user/profile/805.java", 
+                                "https://github.com/danielqo", 
+                                "http://nullability.org/", 
+                                "http://www.slideshare.net/jeveaux/comunidades-virtuais-java-conexo-java-2004", 
+                                "http://en.wikipedia.org/wiki/File:Gurgel_Motomachine.jpg"],
+    "course_code": "55060",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb662"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Daniele Hidalgo Boscolo",
+    "usp_number": "7986625",
+    "google_results_filtered": ["http://www.flogao.com.br/daniluminer/profile", 
+                                "http://www.youtube.com/watch?v=C-OqSHuSPhU", 
+                                "http://www.tabbrasil.org/tab2010/index.php?option=com_content&view=article&id=1253&Itemid=839", 
+                                "http://www.industrialararaquara.com.br/site/index.php?option=com_content&view=article&id=120:convocacao-vagas-remanescentes", 
+                                "http://www.youtube.com/watch?v=C-OqSHuSPhU"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb696"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Dario Silva Nascimento",
+    "usp_number": "7987539",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=5572", 
+                                "http://www.unisa.br/extensao/inscritos_467.pdf"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb66c"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Darlan Santana Farias",
+    "usp_number": "7987140",
+    "google_results_filtered": ["http://www.etepiracicaba.org.br/cursos/lista_alunos/tec.eletrotecnica.xls", 
+                                "http://www.etepiracicaba.org.br/secretaria/resultadoae_1sem_2011.xls", 
+                                "http://201.0.70.47/nrte/arquivos/AcessaEscola/Relatorio%20dos%20Classificados%20Geral%20DE.xls", 
+                                "http://201.0.70.47/antigo_sistema_pagina/sumula/Redes%202010/Arquivos_2010%5CLinks%20da%20Rede%20233%5CLink%20da%20Rede%20233c.xlsx", 
+                                "http://201.0.70.47/arquivos_corpo/Vagas%20Remanescentes%20e%20Classificados.xls", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=5829", 
+                                "http://www.jusbrasil.com.br/diarios/24332401/dosp-executivo-caderno-1-21-01-2011-pg-73", 
+                                "http://estagio.sp.gov.br/Documentos/FDE_Classificados_Class_0052010.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb61d"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Davi Zanelato da Silva",
+    "usp_number": "6792631",
+    "google_results_filtered": ["https://plus.google.com/115660520693932097246", 
+                                "http://www.youtube.com/user/ByDarkSide/videos", 
+                                "http://www.youtube.com/user/bilidosa/feed", 
+                                "http://www.youtube.com/user/brunohplemos/feed", 
+                                "http://www.formspring.me/DaviZanelato#!start=1190036760", 
+                                "http://lf2br.webcindario.com/index.php?page=lfon_jogadores", 
+                                "http://www.facebook.com/events/138212199601162/", 
+                                "http://pt-br.facebook.com/pages/Integra%C3%A7%C3%A3o-ADS-e-CAES/186764448008717?sk=wall&filter=12", 
+                                "http://xoops.net.br/videos/c%C3%A1lculo.php", 
+                                "http://meme.yahoo.com/alinesol/p/yNZyNmo/?.pr="],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb697"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Denis Alexandre da Silva",
+    "usp_number": "7238999",
+    "google_results_filtered": ["http://www.cefetsp.br/edu/sertaozinho/SiSU/anexo_02.pdf", 
+                                "http://www.cefetsp.br/edu/sertaozinho/SiSU/anexo_01.pdf", 
+                                "http://www.jusbrasil.com.br/diarios/26389336/dosp-suplementos-30-04-2011-pg-302", 
+                                "http://189.108.236.229/srt/index.php?option=com_phocadownload&view=category&download=548:lista_enade_2011&id=61:cursos", 
+                                "http://bolsaformacao.orgfree.com/homologados_d.php", 
+                                "http://xa.yimg.com/kq/groups/21896166/1539079172/name/LFAENG310.xls", 
+                                "http://www.agenciasindical.com.br/Clientes/Metalurgicos/PDF/artilheiros_0106.pdf", 
+                                "http://www.etepb.com.br/sec_academica.shtml", 
+                                "http://www.caipimes.com.br/prodam012011/INSCRI%C7%D5ES_DEFERIDAS_0022011.pdf", 
+                                "http://www.pm.pb.gov.br/concursos/upload/arquivos/CFS_4_10_21_06_2011.pdf"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb698"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Denis Jose de Souza e Silva",
+    "usp_number": "6792200",
+    "google_results_filtered": ["http://www.tjmg.jus.br/juridico/diario/index.jsp?dia=0410&completa=interior%7C0084", 
+                                "http://www.tjmg.jus.br/juridico/diario/index.jsp?dia=3105&completa=interior%7C0084", 
+                                "http://201-048-156-137.static.ctbctelecom.com.br/juridico/diario/index.jsp?dia=1702&completa=interior%7C0084", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=6250", 
+                                "http://www.tecmundo.com.br/tira-duvidas/53190", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb61e"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Dhiogo Jose Correa de Sa",
+    "usp_number": "7143621",
+    "google_results_filtered": ["http://www.atleticacaaso.com.br/modalidades/13", 
+                                "http://www.karatezenbukai.com/VII+Copa+Brasil+de+Karate+-+BIOLAB.pdf", 
+                                "http://www.premiopoetize.com.br/", 
+                                "http://artigos.netsaber.com.br/artigos_letra_h", 
+                                "http://artigos.netsaber.com.br/artigos_letra_m", 
+                                "http://www.correntedobem.org.br/?page_id=296", 
+                                "http://portadopoetabrasileiro.blogspot.com/2012/01/parabens-angela-ramalho-arlete-trentini.html", 
+                                "http://www.cespe.unb.br/concursos/tcdf_2011/arquivos/TCDF_2011___AUDITOR_RES_ISENO_DE_TAXA.PDF", 
+                                "http://www.jusbrasil.com.br/diarios/26402083/dou-secao-1-02-05-2011-pg-157", 
+                                "http://www.oabsergipe.com.br/novo/anexos/20120104154010.docx"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb699"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Diego Castaldelli Charallo",
+    "usp_number": "8066673",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/28126791/dou-secao-3-05-07-2011-pg-215", 
+                                "http://www.jusbrasil.com.br/diarios/27071192/trf1-23-05-2011-pg-21", 
+                                "http://www.muz.ifsuldeminas.edu.br/attachments/1101_lista.pdf", 
+                                "http://www.consulplanmg.com/upload/concursosarq/consulplan_Resultado%20Prova%20de%20T%C3%ADtulos%20(29-12-20102280.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb61f"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Diego Fernando Frutuozo",
+    "usp_number": "7986135",
+    "google_results_filtered": ["http://www.saocarlos.sp.gov.br/images/stories/diario_oficial_2010/DO_180210_certificado.pdf", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/diario_oficial_2010/DO_180310_certificado.pdf", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/diario_oficial_2010/DO_170710_certificado.pdf"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb680"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Diego Rodrigues Meyer",
+    "usp_number": "8084110",
+    "google_results_filtered": ["http://www.linkedin.com/pub/dir/Diego/Meyer", 
+                                "http://www.linkedin.com/directory/people/rodriguesmonteiro.html"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb69a"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Diogo Toshio Yamanaka",
+    "usp_number": "7987394",
+    "google_results_filtered": ["http://www.nc.ufpr.br/concursos_institucionais/ufpr/ps2012/resultado1fase/8.htm", 
+                                "http://www.facebook.com/events/252220841496057/"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb620"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Eduardo Domene Junior",
+    "usp_number": "7986538",
+    "google_results_filtered": ["http://forum.cifraclub.com.br/forum/3/147249/", 
+                                "http://www.login.facebook.com/people/Eduardo-Junior/100002134483922", 
+                                "https://pt-br.login.facebook.com/people/Eduardo-Junior/100002549400663", 
+                                "http://sistemas.ifc.edu.br/extensoesedu/aniversarios.php?mes=3", 
+                                "http://sistemas.ifc.edu.br/extensoesedu/matriculas.php", 
+                                "http://sistemas.ifc.edu.br/extensoesedu/alunos.php", 
+                                "http://www.leninja.com.br/o-primeiro-zumbi/"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb69b"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Eduardo Sigrist Ciciliato",
+    "usp_number": "7986542",
+    "google_results_filtered": ["http://eduardo.snamb.com.br/sobre/", 
+                                "http://eduardo.snamb.com.br/category/portfolio/", 
+                                "http://www.facebook.com/eduardo.ciciliato", 
+                                "http://www.facebook.com/snambwd", 
+                                "http://www.facebook.com/family/Ciciliato/1", 
+                                "http://esmagadores.deviantart.com/"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb69c"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Egberto Augusto da Silva Bosso",
+    "usp_number": "7986688",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=6219", 
+                                "http://etecdans.no-ip.info/downloads/lista_candidatos/fatec.html"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb69d"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Elaine Tiburske",
+    "usp_number": "7986910",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Elaine-Tiburske/100003134158002", 
+                                "http://www.clickriomafra.com.br/komochena/page/194/"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb621"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Elias Italiano Rodrigues",
+    "usp_number": "7987251",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/912730/dou-secao-3-05-12-2008-pg-59"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb622"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Eric Freire Antunes",
+    "usp_number": "7987115",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=5860", 
+                                "http://www.educacional.com.br/alunos14/Ranking/novoRanking.asp?intPag=25&posicao=3601&intAno=2006", 
+                                "http://www.educacional.com.br/alunos14/Ranking/novoRanking.asp?intPag=58&posicao=8551&intAno=2008", 
+                                "http://www.catedi.com.br/eventos/catedi-techday-2/local-do-evento/details/2-evento-catedi?pop=1&tmpl=component", 
+                                "http://www.ozzybohmer.com/noticia-opf2005-resultado.asp"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb623"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Erik van Eijk Camara",
+    "usp_number": "8066551",
+    "google_results_filtered": ["http://www.youtube.com/watch?v=HPEry1Ha3RM", 
+                                "http://www.youtube.com/watch?v=StjOr6ZEQHU", 
+                                "http://www.youtube.com/watch?v=HqpEuoBXNLs", 
+                                "http://www.123people.nl/s/erik+van+eijk", 
+                                "http://pt-br.facebook.com/pages/Jornal-Vaca-Mu/255902827811144", 
+                                "http://wn.com/Ot%C3%A1vio_Mendes", 
+                                "http://equipemoger.weebly.com/integrantes.html", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=6251", 
+                                "http://www.musiconline.com.br/videos/harpa-crista/video/oimD-N8Z_V8", 
+                                "http://www.sonico.com.br/u/37193654/Larissa-Maldonado", 
+                                "http://www.youtube.com/watch?v=HPEry1Ha3RM", 
+                                "http://www.youtube.com/watch?v=StjOr6ZEQHU", 
+                                "http://www.youtube.com/watch?v=HqpEuoBXNLs"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb624"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Everton Fernando Precaro",
+    "usp_number": "7986591",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Everton-Fernando-Precaro/100000664863156", 
+                                "http://pt-br.facebook.com/people/Fernando-Precaro/100001729317650", 
+                                "http://www.panoramio.com/user/4367271", 
+                                "https://plus.google.com/109311994295908650395", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/concursos2012/13-02-12-PMSC-Concurso-convocacao-provaobjetiva-CP376ao381.pdf", 
+                                "http://www.bolaovip.com.br/Bolao.aspx?bid=32980", 
+                                "http://www.annuaire-mairie.fr/photo-pirapozinho.html", 
+                                "http://mt.worldpoi.info/city/197017/gallery/", 
+                                "http://pipl.com/directory/name/Nepomuceno/Eduardo", 
+                                "http://mw1.google.com/mw-earth-vectordb/dynamic/panoramio_delta/000061/002123303.kmz"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb69e"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Fabio Alves Martins Pereira",
+    "usp_number": "7987435",
+    "google_results_filtered": ["http://www.clicabrasilia.com.br/edicaodigital/redirect.php?edicao=20120208-jornal/pdf/70.pdf", 
+                                "http://www.mp.go.gov.br/portalweb/hp/10/docs/relacao_geral_de_candidatos_-_resultado_prova_objetiva.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb625"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Fabio Eduardo Araujo Cardoso",
+    "usp_number": "8066440",
+    "google_results_filtered": ["http://en.wikipedia.org/wiki/List_of_Brazilian_footballers", 
+                                "http://www.jusbrasil.com.br/diarios/24988212/stf-23-02-2011-pg-11", 
+                                "http://ilas.columbia.edu/people/tinker_professors", 
+                                "http://www.becodospoetas.com.br/profile/FabioCardosodeAraujo", 
+                                "http://www.fabiocavalcante.com/english/biography.php", 
+                                "http://digitalcommons.wku.edu/ijes/vol1/iss5/", 
+                                "http://www.ibgc.org.br/EstruturaOrganizacional.aspx", 
+                                "http://pt-pt.facebook.com/fabioolive", 
+                                "http://www.cespe.unb.br/concursos/MPE_PI2011/arquivos/ED_3_2011_MPEPI___RES_FIN_PROVA_OBJET_E_RES_PROV_PROVA_DISCURS.PDF", 
+                                "http://www.significado.origem.nom.br/nomes_estranhos/"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb626"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Felipe Moreira Moura",
+    "usp_number": "8066461",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/8049986/doerj-publicacoes-a-pedidos-02-09-2010-pg-10", 
+                                "http://blog.ilsc.com/?p=1866", 
+                                "http://blog.ilsc.com/?p=1620", 
+                                "http://blog.ilsc.com/?m=201101", 
+                                "http://200.150.155.210/FAETEC_2012.1/Reclassificacao/Recla%202%20Ed%20Inf.pdf", 
+                                "http://www.culturainglesasp.com.br/wps/portal/cbjr", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=6447", 
+                                "http://www.universitasensinomedio.com.br/universitas/ex_alunos/galeria/formandos_2011.html", 
+                                "http://bases.bireme.br/cgi-bin/wxislind.exe/iah/online/?IsisScript=iah/iah.xis&src=google&base=LILACS&lang=p&nextAction=lnk&exprSearch=151655&indexSearch=ID", 
+                                "http://www.portal.santos.sp.gov.br/pedestrianismo/request.php?6"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb627"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Fernando Jose Loureiro Monteiro",
+    "usp_number": "7143962",
+    "google_results_filtered": ["http://www.atleticacaaso.com.br/modalidades/22", 
+                                "http://www.atleticacaaso.com.br/diretoria/"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb628"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Fernando Neves Meirelles",
+    "usp_number": "7986517",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/25834764/djsp-judicial-1a-instancia-interior-parte-ii-05-04-2011-pg-111", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=3927", 
+                                "http://docs.exdat.com/docs/index-191688.html?page=14", 
+                                "http://es-es.facebook.com/people/Fernando-Antonio-Mena-Morales/100001478766956"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6a0"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Fernando das Neves Jurdi",
+    "usp_number": "5635223",
+    "google_results_filtered": ["http://www.youtube.com/user/fernandojurdi/featured", 
+                                "http://www.youtube.com/watch?v=q8t8IEGdeNI", 
+                                "http://www.123people.fr/s/fernando+das+neves", 
+                                "http://www.musiconline.com.br/videos/axe-blond/video/PglCjafflNw", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt", 
+                                "http://www.123people.com/s/fernando+neves", 
+                                "http://www.youtube.com/watch?v=q8t8IEGdeNI"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb69f"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Fernando de Medeiros Ribeiro",
+    "usp_number": "7987626",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=19"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb66d"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Francielly Gomez Gastardi",
+    "usp_number": "7985986",
+    "google_results_filtered": ["http://com.limao.com.br/app/wikisites/posts/detalhes.cfm?id_detalhe=36175&id_comunidade=23297", 
+                                "http://miniblog.limao.com.br/franciellydb/post/frase-dia-quando-o-coracao-humano-supera-os-seres-divinos-o-que-os-deuses-vao-perdoar-e-o-que-eles-vao-castigar-saint-seiya,2cfbce5601fb", 
+                                "http://miniblog.limao.com.br/franciellydb/post/18-anos-xd-bem-ha-vantagens-e-desvantagens-rsrs,2cf4cb5e05f7", 
+                                "http://miniblog.limao.com.br/franciellydb/post/frase-d-diase-eu-fosse-a-chuva-poderia-unir-meu-corcao-ao-de-outro-alguem-assim-como-ela-une-os-eternamente-distantes-ceu-e-terrableach,2cfac65804f9", 
+                                "http://pt-br.facebook.com/people/Francielly-Gomez/100003297709609", 
+                                "http://pt-br.facebook.com/people/Francielly-Leite/100002819344981", 
+                                "http://www.themodelsbank.com.br/agencias/popup.php?agencia=2&pg=195", 
+                                "http://animesdownsvi.blogspot.com/2009/05/001-o-segredo-da-esfera-do-dragao.html", 
+                                "http://www.linkedin.com/directory/people/gomezgarrido.html"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb681"
+    }
+},
+{
+    "course_name": "Bacharelado em Matem\u00e1tica Aplicada e Computa\u00e7\u00e3o Cient\u00edfica",
+    "name": "Gabriel Barruci da Silva",
+    "usp_number": "7986264",
+    "google_results_filtered": ["https://ps-af.facebook.com/family/Barruci-Da-Silva/1?iframe=true&width=80%25&height=80%25", 
+                                "http://perfil.limao.com.br/indice-de-usuarios-do-limao/letra-g/gabriel"],
+    "course_code": "55060",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb663"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Gabriel Dupim Hosino",
+    "usp_number": "8066252",
+    "google_results_filtered": ["http://twitter.com/gabrielhosino", 
+                                "http://twitter.com/audreyumi", 
+                                "https://twitter.com/LeCavalheiro", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=5860", 
+                                "http://ro-ro.facebook.com/people/Iosipescu-Gabriel/100000734832630"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb629"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Gabriel Moretto",
+    "usp_number": "8066652",
+    "google_results_filtered": ["http://www.linkedin.com/pub/dir/Gabriel/Moretto", 
+                                "http://br.linkedin.com/pub/dir/Gabriel/Moretto", 
+                                "http://www.youtube.com/watch?v=TdKigrJbfrA", 
+                                "http://pt-br.facebook.com/msGABRIELms", 
+                                "http://twitter.com/_gabrielmoretto", 
+                                "http://twitter.com/gabrielmoretto", 
+                                "http://maplink.com.br/mapa/rs/caxias-do-sul/rua-angelo-agostini_rua-gabriel-moretto", 
+                                "http://badoo.com/01183307849/", 
+                                "http://www.ecoregional.com.br/noticias/1193/Empreendimentos/Nova_opcao_em_mecanica", 
+                                "http://www.familiaridade.com.br/sobrenome/Moretto.asp", 
+                                "http://www.youtube.com/watch?v=TdKigrJbfrA"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb62a"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Gabriel Rodrigues do Prado Rossales",
+    "usp_number": "6608843",
+    "google_results_filtered": ["http://www.facebook.com/antifreeze0076", 
+                                "http://www.yakimacounty.us/inmatelookup/YcDocPublicIncarinated.aspx", 
+                                "http://www.ventura.courts.ca.gov/music/case_results.asp?Search=Search&CaseName=gab&CaseNumber=", 
+                                "http://www.scribd.com/doc/79707715/POSIBLES-GRADUANDOS-I-12", 
+                                "http://genforum.genealogy.com/mexico/all.html", 
+                                "http://en.wikipedia.org/wiki/Public_housing_in_Puerto_Rico", 
+                                "http://www.docstoc.com/docs/78437177/COUGAR-PRINTS", 
+                                "http://www.poetryfoundation.org/bio/gabriela-mistral", 
+                                "http://issuu.com/mineromagazine/docs/dec1st", 
+                                "http://apps.co.marion.or.us/JailRosters/mccf_roster.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb62b"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Gabriel Tessaroli Giancristofaro",
+    "usp_number": "4321350",
+    "google_results_filtered": ["http://www.paroquiasaobeneditobauru.org.br/pastorais.php?acao=listar", 
+                                "http://intercondominiosdebauru.zip.net/PDFs/futebols.pdf", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=6492"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb62c"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Gabriel de Souza Ribeiro",
+    "usp_number": "7986667",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Gabriel-De-Souza-Ribeiro/1177091566", 
+                                "http://pt-br.facebook.com/people/Gabriel-Souza-Ribeiro/100000353308873", 
+                                "http://portalamazonia.globo.com/documentos/pdf/Lista_Projovem.pdf", 
+                                "http://www.obmep.org.br/classificadosAlunosFase2.do;jsessionid=F1DD8F7D13701F2619EDD3E30CFE1CCA?mecCode=41137515", 
+                                "http://www.apfutebol.com.br/media/file/copa_paulista/2011/Art.15.htm", 
+                                "http://www.uel.br/prorh/josuepar/cco_portaria.pdf", 
+                                "http://www.jandaiaonline.com.br/a-poesia-semeando-cultura.htm", 
+                                "http://www.boletimesportivo.com/home/noticia/8163", 
+                                "http://www.jusbrasil.com.br/diarios/27277771/dosp-executivo-caderno-1-01-06-2011-pg-48", 
+                                "http://www.pmsrp.com.br/cras/janeiro2012.pdf"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6a1"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Guilherme Alexandre dos Santos",
+    "usp_number": "7986650",
+    "google_results_filtered": ["http://www1.pucminas.br/imagedb/img_divulgacao/IMD_ARQ_IMAGE20110228071553.pdf", 
+                                "http://www.unifal-mg.edu.br/copeve/files/file/Processo%20Seletivo%20MEC-SISU%202011-1/CienciaComput.pdf", 
+                                "http://demparanapanema.edunet.sp.gov.br/noticias/programa_acessa_escola_moduloI.htm", 
+                                "https://fenix.ist.utl.pt/publico/executionCourse.do;jsessionid=A9EA35721389676BA10FE36AF2C1B200.as2?method=grouping&groupingID=181700&executionCourseID=150064&contentContextPath_PATH=/disciplinas/fp-3/2011-2012/1-semestre/agrupamentos&_request_checksum_=a8be6db9e1fbe86beeb41d19a8c82c8833d4734c", 
+                                "http://groups.ist.utl.pt/unidades/nape/files/Listagem-de-Colocados-no-ISTna-1%C2%AA-Fase-2011.pdf", 
+                                "https://dspace.ist.utl.pt/bitstream/2295/1034561/1/InscricoesTeste1.pdf", 
+                                "http://portal2.ifrn.edu.br/ensino/processos-seletivos/tecnico-integrado/itec/2009/documentos-publicados/proitec_resultdo_discursiva.pdf", 
+                                "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=T178469", 
+                                "http://pt-br.facebook.com/people/Cleber-Fernando-Dos-Santos/100002245613515", 
+                                "http://www.jusbrasil.com.br/diarios/213019/dou-secao-3-18-01-2002-pg-80"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6a2"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Guilherme Barbosa",
+    "usp_number": "3371192",
+    "google_results_filtered": ["http://www.guilhermebarbosa.com/", 
+                                "http://en-gb.facebook.com/guilherme.barbosa", 
+                                "http://www.linkedin.com/pub/dir/Guilherme/Barbosa", 
+                                "http://www.youtube.com/watch?v=NF0wU4HTi7w", 
+                                "http://www.youtube.com/watch?v=NYRdW-7ktqQ", 
+                                "https://twitter.com/#!/gui_barbosa", 
+                                "http://br.answers.yahoo.com/question/index?qid=20100827105804AAsCiRP", 
+                                "http://www.apontador.com.br/guia_de_ruas/sp/sao_paulo/r_guilherme_barbosa_de_mello.html", 
+                                "http://congregacao.net/categorias/hinos/tocados/guilherme-barbosa", 
+                                "https://foursquare.com/v/rua-guilherme-barbosa-de-melo/4ea93a5999114a2b1251830c", 
+                                "http://www.youtube.com/watch?v=NF0wU4HTi7w", 
+                                "http://www.youtube.com/watch?v=NYRdW-7ktqQ"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb682"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Guilherme Faria Pizi",
+    "usp_number": "8066162",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=14"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6a3"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Guilherme Gomes Ferreira",
+    "usp_number": "6793305",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Guilherme-Gomes-Ferreira/100001750165390", 
+                                "http://www.linkedin.com/pub/dir/Guilherme/Gomes+ferreira", 
+                                "http://www.ident.com.br/dr.guilherme/atendimento", 
+                                "http://www.ccsc.ppg.br/aos-criativos-catarinenses/parceiros/", 
+                                "http://www.jusbrasil.com.br/advogados/mg-belo-horizonte/lista?abc=G&p=6", 
+                                "http://www.tjmg.jus.br/corregedoria/codigo_normas/portarias.pdf", 
+                                "http://www.sistime.com.br/eficiente/sites/sistime.com.br/pt-br/site.php?secao=relatorio_inscritos&evento=54", 
+                                "http://www.igogo.pt/restaurante-piramide-2/", 
+                                "http://www.remax.com.br/magna", 
+                                "http://www.cbnoticias.com.br/portal/Procopense/resultados-do-fim-de-semana-copa-oswaldo-bernardes.html"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6a4"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Guilherme Hideki Ogura",
+    "usp_number": "7987182",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Guilherme-Hideki-Ogura/100002376146574", 
+                                "http://pt-br.facebook.com/public/Guilherme-Hideki-Ogura", 
+                                "http://ja-jp.facebook.com/people/Hideki-Ogura/100000170463013"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb62d"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Guilherme T de Santana",
+    "usp_number": "7985882",
+    "google_results_filtered": ["http://www.fama-ro.com.br/cursos/all_folder/lista_aprovados.pdf"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb66e"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Guilherme Toyoshima",
+    "usp_number": "7986816",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Guilherme-Toyoshima/100001343176192", 
+                                "http://ja-jp.facebook.com/people/Manami-Toyoshima/100003461919367", 
+                                "http://docs.exdat.com/docs/index-191688.html?page=15", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=4286"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb62e"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Guilherme Victor Mendes Sobral",
+    "usp_number": "8066245",
+    "google_results_filtered": ["http://edfmonte.blogspot.com/", 
+                                "http://www.e-financas.gov.pt/de/pubdiv/pdf/listaFS1.pdf", 
+                                "http://acbx.webnode.com.br/ranking-2011/", 
+                                "http://www.guiaoff.com.br/site/index.php?option=com_content&view=article&id=3&Itemid=19", 
+                                "http://www.prograd.ufc.br/index.php?option=com_docman&task=doc_download&gid=1343&Itemid=71", 
+                                "http://www.procelinfo.com.br/resultadosprocel2010/index.html", 
+                                "http://uniaosobralense.blogspot.com/", 
+                                "http://www.aeita.com.br/wiki/index.php?title=Genealogia_iteana", 
+                                "http://www.tcm.ce.gov.br/transparencia/index.php/municipios/objeto/cdelem/36/mun/162/versao/2011/de_elemento_od/Outros+Servi%E7os+de+Terceiros+-+Pessoa+F%EDsica", 
+                                "http://www.scribd.com/doc/55995685/Familia-Ferreira-Gomes-de-Sobral-Versao-de-2007"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb62f"
+    }
+},
+{
+    "course_name": "Bacharelado em Matem\u00e1tica Aplicada e Computa\u00e7\u00e3o Cient\u00edfica",
+    "name": "Guilherme da Silva Bueno",
+    "usp_number": "7986393",
+    "google_results_filtered": ["http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.do?select_action=&co_autor=62468", 
+                                "http://dgp.cnpq.br/buscaoperacional/detalhepesq.jsp?pesq=1143844954653469", 
+                                "http://www.musica.ufmg.br/claudiourgel/Empreendedorismo/LeiFederal/2009%20cem%20maiores%20PF.pdf", 
+                                "http://www.ofluminense.com.br/ArquivosExternos/Arq697.pdf", 
+                                "http://www.etepiracicaba.org.br/cursos/lista_alunos/ensino_medio.xls", 
+                                "http://www.autonet.cba.ifmt.edu.br/?q=Estrutura%20Organizacional%20PET%20AutoNet", 
+                                "http://camaraprocult.blogspot.com/2009/01/danca-das-cadeiras-na-cultura-de.html", 
+                                "http://www.jusbrasil.com.br/diarios/33114943/dosp-cidade-13-12-2011-pg-15", 
+                                "http://www.mariaimaculada.br/ProcessosSeletivos/2011/Conv_2012.pdf", 
+                                "http://tanosite.com/?pgn=noticias&id=10766"],
+    "course_code": "55060",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb664"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Gustavo Inacio Passos",
+    "usp_number": "8066572",
+    "google_results_filtered": ["http://pt-br.facebook.com/gustavoipassos?ref=fs", 
+                                "http://veja.abril.com.br/blog/reinaldo/geral/unicef-errou-na-divulgacao-de-dados-sobre-adolescentes-fora-da-escola-e-corrige-o-numero-mas-eu-acertei-na-minha-analise-vamos-la/", 
+                                "http://blogs.estadao.com.br/radar-tecnologico/2012/01/03/misterioso-evento-da-apple-em-ny-pode-ter-a-ver-com-educacao/", 
+                                "http://www.baixaki.com.br/download/xadrez-master.htm", 
+                                "http://www.baixaki.com.br/comentarios.asp?cod=5166", 
+                                "http://comentarios.folha.com.br/comentarios?comment=112936&site=folhaonline&skin=folhaonline"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb630"
+    }
+},
+{
+    "course_name": "Bacharelado em Matem\u00e1tica Aplicada e Computa\u00e7\u00e3o Cient\u00edfica",
+    "name": "Gustavo Ragi Cordeiro",
+    "usp_number": "7986271",
+    "google_results_filtered": ["http://www.saobernardo.sp.gov.br/dados1/esportes/BOLETIM%20RESULTADOS%20NATA%C3%87%C3%83O.doc"],
+    "course_code": "55060",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb665"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Helena do Amparo Teixeira Aravechia",
+    "usp_number": "7580817",
+    "google_results_filtered": ["http://cnes.datasus.gov.br/Mod_Profissional.asp?VCo_Unidade=3552702079399", 
+                                "http://cnes.datasus.gov.br/Mod_Ind_Profissional_Listar.asp?Vcbo=223810&VListar=1&VEstado=35&VMun=", 
+                                "http://cnes.datasus.gov.br/Mod_Ind_Profissional_Listar.asp?Vcbo=225320&VListar=1&VEstado=35&VMun=", 
+                                "http://www.jusbrasil.com.br/diarios/26942227/dosp-executivo-caderno-1-24-05-2011-pg-77", 
+                                "http://www.jusbrasil.com.br/diarios/26898553/dosp-executivo-caderno-1-21-05-2011-pg-59", 
+                                "http://www.uniara.com.br/institucional/ofertas_cursos_mec/pdf/9fe4e8fd5b957f20e034610da708ffa8.pdf", 
+                                "http://www.saofrancisco.com.br/images/online/08-SFS_158_Santa_Candida_Tonon_downloads.pdf", 
+                                "http://www.ibamsp-concursos.org.br/inscricoes/documento.php?d=2864", 
+                                "http://dtr2002.saude.gov.br/expogest/Eixo%202%20site.htm", 
+                                "http://www.carmonaefaria.com.br/processos/rei_frango/lista1_cred_decl_rec.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb631"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Henrique de Oliveira Alves",
+    "usp_number": "7987550",
+    "google_results_filtered": ["http://br.linkedin.com/pub/otavio-henrique-de-oliveira-alves/39/314/115", 
+                                "http://br.linkedin.com/pub/jos%C3%A9-henrique-de-oliveira-alves/43/32a/158", 
+                                "http://pt-br.facebook.com/HenriqueAlvesDeOliveira", 
+                                "http://pt-br.facebook.com/people/Henrique-Oliveira-Alves/100001262320174", 
+                                "http://www.meuadvogado.com.br/advogado/paulo-henrique-de-oliveira-alves.html", 
+                                "http://www.policiacivil.rj.gov.br/delegacia.asp", 
+                                "http://www1.folha.uol.com.br/cotidiano/887316-mulher-e-presa-sob-suspeita-de-decepar-mao-de-bebe-no-rio.shtml", 
+                                "http://www.terrazul.com.br/profissionais.html", 
+                                "http://dialogospoliticos.wordpress.com/2012/02/02/ras-bernardo-ex-vocalista-do-cidade-negra-e-baleado-em-tentativa-de-assalto/", 
+                                "http://expressopb.com/tag/policial/"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb66f"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Hicaro Rodrigues Adriano",
+    "usp_number": "7061929",
+    "google_results_filtered": ["http://www.ifspsaocarlos.edu.br/portal/downloads/extensao/ENADE2011_local_prova.pdf", 
+                                "http://www.concistec.com.br/index.php?option=com_content&view=article&id=10&Itemid=13", 
+                                "http://brasildo.com/diario-oficial-dos-estados/sao-paulo/executivo-caderno-i/2012-02-07/p-143", 
+                                "http://brasildo.com/diario-oficial-dos-estados/sao-paulo/executivo-caderno-i/2011-12-20/p-198"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6a5"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Hiero Martinelli",
+    "usp_number": "7986646",
+    "google_results_filtered": ["http://it-it.facebook.com/FruFruShoes", 
+                                "http://id-id.facebook.com/HieroDFoxer", 
+                                "http://www.scpalmeiras.sp.gov.br/scpalmeiras.sp.gov.br/Concursos%202009/12%20Retificacao%20Resultado%20-%20Aux%20de%20Administracao.pdf"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6a6"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Isabela Ribeiro Martins dos Santos",
+    "usp_number": "8065762",
+    "google_results_filtered": ["http://www.facebook.com/Belita.Ribeiro.Ricciardi", 
+                                "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=P807049", 
+                                "http://www.usinadeletras.com.br/exibelotexto.php?cod=7525&cat=Ensaios&vinda=S", 
+                                "http://issuu.com/fuft/docs/boletim_especial_-_23convoca__o_de_inscritos", 
+                                "http://www.bcb.gov.br/?WHO", 
+                                "http://www.marmelopolis.mg.gov.br/noticia/folha%20bolsa%20familia.txt", 
+                                "http://twitter.com/isaribeiiro", 
+                                "http://buscar.doctoralia.com.br/isabela-ribeiro/3", 
+                                "http://portal2.tcu.gov.br/portal/pls/portal/docs/2171010.PDF", 
+                                "http://xuxa.globo.com/noticias/categoria/5/promocoes"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb683"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Isis Maria de Jesus",
+    "usp_number": "8065838",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/25732490/djsp-editais-e-leiloes-31-03-2011-pg-259", 
+                                "http://www.aocp.com.br/concursos/arquivos/EditaldeResultadodaProvaEscritaObjetiva-SAUDE.pdf", 
+                                "http://www.aocp.com.br/concursos/arquivos/QuadroGeraldeNotas-CargossomentecomProvaObjetiva-SAUDE.pdf", 
+                                "http://www.consultec.com.br/inscbd/2005insc/upload/PCALMON2011_RESULTADO_2FASE_TECNICO.PDF", 
+                                "http://www.consultec.com.br/inscbd/2005insc/upload/1PCALMON2011_CONVOCADOS_2_FASE_TECNICO.PDF", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/concursos2012/13-02-12-PMSC-Concurso-convocacao-provaobjetiva-CP376ao381.pdf", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/concursos2011/08-07-11-PMSC-Concurso-notaprovaobjetiva-CP352ao354-resultadofinal-CP351.pdf", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/concursos2011/23-01-12-PMSC-Concurso-convocacao-provaobjetiva-CP370.pdf", 
+                                "http://cybercook.terra.com.br/torta-de-liquidificador.html?codigo=548"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb684"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Jaqueline Melissa Arai",
+    "usp_number": "7987101",
+    "google_results_filtered": ["http://www.classmates.com/places/school/Joan-F-Arai-Middle-School/17438301", 
+                                "http://unicelebs.blogspot.com/2011/12/unicelebs-jacqueline-fernandez-and-neha.html", 
+                                "http://unicelebs.blogspot.com/2011/11/bollywood-beautiful-actress-jacqueline.html", 
+                                "http://unicelebs.blogspot.com/2011/05/uc-melissa-reeves-bikini-candids-from.html", 
+                                "http://thefashionisto.com/daily-fix-pawel-bednarek-by-shunya-arai/", 
+                                "http://thefashionisto.com/daily-fix-kaan-tilki-by-shunya-arai/", 
+                                "http://www.facebook.com/people/Melissa-Blevins/100000984510488", 
+                                "http://www.reunion.com/scottarai/", 
+                                "http://www.bowwowflix.com/instructor.php?id=368", 
+                                "https://admin.xosn.com/fls/10600/pdf/WSW%20Record%20Book.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb632"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Joao Ricardo Copette",
+    "usp_number": "7986570",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Jo%C3%A3o-Ricardo-Copette/100002166364163", 
+                                "http://www.facebook.com/family/Copette/1", 
+                                "http://es-la.facebook.com/rruiztoledo", 
+                                "http://es-la.facebook.com/people/Ricardo-Ceron/100000214320945"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6a7"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Jose Andres Moya",
+    "usp_number": "7986754",
+    "google_results_filtered": ["http://es-la.facebook.com/people/Jose-Andres-Moya/1133833875", 
+                                "http://www.facebook.com/baladron", 
+                                "http://www.facebook.com/people/Andr%C3%A9s-Porras/702128226", 
+                                "http://buscarmedico.sanitas.es/medicos/jose-andres-moya-madolell", 
+                                "http://buscador.emol.com/amarillas/empresa/Seaprop+Propiedades+JOSE+ANDRES+MOYA+MIRANDA/300226710", 
+                                "http://queipomatematicas.net23.net/profesores-del-departamente-curso-20112012/jose-andres-moya-navarrete/", 
+                                "http://boards.ancestry.myfamily.com/thread.aspx?mv=flat&m=10&p=surnames.moya", 
+                                "http://www.mercantil.com/rc/company/results_company_mbr.asp?meco_code=300261546&lang=esp", 
+                                "http://www.beenverified.com/p/jose+moya", 
+                                "http://www.chilnet.cl/rc/company/results_company_mbr.asp?meco_code=300261546&parstacks=0,0,0,0,0&lang=eng&mask=511"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb633"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Jose de Arimatea Gomes da Silva Filho",
+    "usp_number": "7986156",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/867269/dou-secao-3-21-12-2007-pg-278"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb670"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Juliana de Oliveira Camargo Barbosa",
+    "usp_number": "7986142",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=21"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb685"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Juliano Figueira Fava",
+    "usp_number": "7985965",
+    "google_results_filtered": ["http://fito2.org.br/equipeweb/AEF2.htm"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb686"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Karina Padua de Oliveira Pinto",
+    "usp_number": "6677820",
+    "google_results_filtered": ["http://www.saocarlos.sp.gov.br/images/stories/concursos2011/24-11-11-PMSC-Concursos-deferimento-inscricoes-PS-professor.pdf", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/diario_oficial_2011/DO_280511_certificado.pdf", 
+                                "http://www.jusbrasil.com.br/diarios/31748262/dosp-suplementos-25-10-2011-pg-150", 
+                                "http://www.jusbrasil.com.br/diarios/25827292/dosp-suplementos-05-04-2011-pg-233", 
+                                "http://www.jusbrasil.com.br/diarios/6256526/dosp-suplementos-02-07-2010-pg-49", 
+                                "http://www.123people.it/z/cristina+sarto", 
+                                "http://brasildo.com/diario-oficial-dos-estados/sao-paulo/executivo-caderno-ii/2012-01-19/p-169"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6a8"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Kaue Ueda Silveira",
+    "usp_number": "7987498",
+    "google_results_filtered": ["http://br.linkedin.com/pub/kaue-ueda-silveira/41/9ab/691", 
+                                "http://pt-br.facebook.com/flaspengler", 
+                                "http://pt-br.facebook.com/people/Kaue-Silveira/100001315844139", 
+                                "http://www.opopular.com.br/polopoly_fs/1.17531.1309994329!/menu/standard/file/CienciasdaComputacao(bacharelado)-integral-Goiania.pdf", 
+                                "http://www.jatai.ifgoias.edu.br/licenciatura/index.php/downloads/doc_download/12-resultado-a-2010", 
+                                "http://www.obq.ufc.br/ResultadoOBQ2011GruposAeB.pdf", 
+                                "http://filmow.com/ameaca-indestrutivel-t18490/", 
+                                "http://www.anbiojovem.org.br/obb/index.php?mod=mat&id_materia=336", 
+                                "http://meucerrado.com.br/Popup_HTML/iframe.php?html=1"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb634"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Lais Tiemi Mukai",
+    "usp_number": "7987199",
+    "google_results_filtered": ["http://cnes.datasus.gov.br/Mod_Ind_Profissional_Listar.asp?Vcbo=223405&VListar=1&VEstado=41&VMun=", 
+                                "http://www.cops.uel.br/concursos/75_seap_sesa/inscricoes_homologadas/geral/75031_U.pdf", 
+                                "http://www.jusbrasil.com.br/diarios/32321809/dosp-jucesp-17-11-2011-pg-26", 
+                                "http://www.cdb.br/exalunos/lista.php?letra=L", 
+                                "http://concurso.uniuv.edu.br/concursos/concurso21/Ensalamento_Assai.pdf", 
+                                "http://www.babooforum.com.br/forum/index.php?app=core&module=attach&section=attach&attach_id=23895", 
+                                "http://jornalsolnascenteassai.blogspot.com/2011/12/assai-relacao-das-inscricoes-deferidas.html", 
+                                "http://daaweb.uem.br/enade/1serie.pdf", 
+                                "http://www.seletrix.com.br/arquivos/editais/edital-de-homologao-das-inscries-e-convocao-para-as-provas-21112011.pdf", 
+                                "http://agazetaassai.blogspot.com/2012_01_23_archive.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb635"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Leandro Vinicius Romanini da Silva",
+    "usp_number": "4771360",
+    "google_results_filtered": ["http://201.0.70.47/antigo_sistema_pagina/sumula/Redes%202010/Arquivos_2010%5CLink%20da%20Rede%20256.xls"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb636"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Leonardo Alves Miguel",
+    "usp_number": "7987265",
+    "google_results_filtered": ["http://www.nc.ufpr.br/concursos_institucionais/ufpr/ps2012/resultado1fase/8.htm", 
+                                "http://www.facebook.com/pages/His-Forehead-is-immense-He-will-Murder-your-defence-Gervinho/170610216345854?sk=page_getting_started&ref=nf", 
+                                "http://www.fap.com.br/Fap_Mat_2011/Nivel3_Classificados.pdf", 
+                                "http://dc124.4shared.com/doc/k36VxTDi/preview.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb637"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Leonardo Barbosa Alves",
+    "usp_number": "5889522",
+    "google_results_filtered": ["http://www.leonardobarbosa.com/", 
+                                "http://www.leonardobarbosa.com/mobile/", 
+                                "http://www.facebook.com/leomenudo", 
+                                "https://plus.google.com/110878811053225060074", 
+                                "https://profile.live.com/cid-36e9ae5d84a3704f/", 
+                                "http://www.ibahia.com/detalhe/noticia/homem-e-baleado-na-boca-no-bairro-do-curuzu/", 
+                                "http://2004kk.deviantart.com/?offset=10", 
+                                "http://www.reclameaqui.com.br/1805715/mente-urbana/tentativa-de-ludibriar-o-consumidor/", 
+                                "http://www.correio24horas.com.br/r/artigo/homem-e-baleado-na-boca-no-bairro-do-curuzu/", 
+                                "http://www.jusbrasil.com.br/diarios/25019872/djdf-24-02-2011-pg-930"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6a9"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Leonardo Borges",
+    "usp_number": "8084173",
+    "google_results_filtered": ["http://www.leonardoborges.com/writings/", 
+                                "http://www.leonardoborges.com/writings/2011/04/25/one-year-of-thoughtworks-a-retrospective/", 
+                                "http://twitter.com/#!/leonardo_borges", 
+                                "http://www.flickr.com/people/leonardo_borges/", 
+                                "http://www.linkedin.com/in/leosborges", 
+                                "http://en.wikipedia.org/wiki/Leonardo_Borges_de_Azevedo", 
+                                "http://www.behance.net/leorosaborges", 
+                                "http://nl-nl.facebook.com/borges.leonardo", 
+                                "http://www.facebook.com/lborgav", 
+                                "http://vimeo.com/user9059310"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb638"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Leonardo Lima Gomes",
+    "usp_number": "8066565",
+    "google_results_filtered": ["http://www.iag.puc-rio.br/o-iag-puc-rio/corpo-docente/quadro-principal/leonardo-lima-gomes", 
+                                "http://www.nuca.ie.ufrj.br/blogs/gesel-ufrj/index.php?/archives/9074-Artigo-de-Leonardo-Lima-Gomes,-Luiz-Eduardo-Brando-e-Antonio-Carlos-Figueiredo-Pinto-Otimizaco-de-Carteiras-de-Contratos-de-Energia-Eletrica-atraves-da-Medida-mega.html", 
+                                "http://read.adm.ufrgs.br/edicoes/pdf/artigo_588.pdf", 
+                                "http://www.fucape.br/_admin/upload/prod_cientifica/Gomes-Valor%20Adicionado%20aos%20Consumidores.pdf", 
+                                "http://br.linkedin.com/pub/leonardo-lima-gomes-filho/21/a07/588", 
+                                "http://www.bondfaro.com.br/preco--livros--investimentos-em-infraestrutura-luiz-eduardo-teixeira-brandao-leonardo-lima-gomes-8574783641.html", 
+                                "http://link.aip.org/link/jitsxx/v1/i1/p59/s1", 
+                                "http://www.libre.org.br/titulo_view.asp?ID=11527", 
+                                "http://pt-br.facebook.com/people/Leonardo-Gomes-Lima/100000856028614", 
+                                "http://bibliotecadigital.fgv.br/ojs/index.php/rbfin/article/view/1440"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb639"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Leonardo Tortoro Pereira",
+    "usp_number": "7573621",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=5860"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb63a"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Lindsey Araujo da Silva",
+    "usp_number": "7986069",
+    "google_results_filtered": ["http://www.facebook.com/people/Lindsey-Araujo/205400471", 
+                                "http://www.facebook.com/people/Lindsey-Babcock/1450083529", 
+                                "http://www.facebook.com/people/Lindsey-Lou-Langdon/807450857", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=3915", 
+                                "http://www.universitasensinomedio.com.br/universitas/ex_alunos/galeria/formandos_2011.html", 
+                                "https://profile.live.com/cid-10831657cff36c1a/friends/all/"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb687"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Linus Axel Costa Eriksson",
+    "usp_number": "7986931",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=5829"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb63b"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Luana Graziele Stanganini",
+    "usp_number": "8066839",
+    "google_results_filtered": ["http://www.formspring.me/luugraziele", 
+                                "http://br.linkedin.com/pub/luana-graziela-costa-da-silva/38/531/566", 
+                                "http://www.linkedin.com/directory/people/graziele.html", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/concursos2010/10-11-10-PMSC-Concurso-deferimentodasinscricoes-PSProfessor.pdf", 
+                                "http://pluris2010.civil.uminho.pt/en/noticias_aceitacaoresumos.html", 
+                                "http://www.jusbrasil.com.br/diarios/23413946/dosp-executivo-caderno-1-26-11-2010-pg-47", 
+                                "http://www.teloos.it/CityIndex/53040/1.htm", 
+                                "http://www.arezzoistruzione.it/graduatorie/graduatorie06/grad_provv_art7.htm", 
+                                "http://jcconcursos.uol.com.br/arquivos/pdf/Prefeitura_Prova_objetiva_professor_23803.pdf", 
+                                "http://www.psico.unifi.it/upload/sub/Piani_Studio/PianiStudioNO.xls"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb671"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Lucas Nunes Arvani",
+    "usp_number": "7986802",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=15", 
+                                "http://www.terra.com.br/criancas/diadascriancas2004/thesims2_vencedores.htm"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb63e"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Lucas de Souza e Silva",
+    "usp_number": "7656255",
+    "google_results_filtered": ["http://www.iff.edu.br/processos-seletivos/processo-seletivo-2011-1o-e-2o-semestres/Resultado%20Final%20campus%20Macae.pdf", 
+                                "http://pastorsileniodesousa.blogspot.com/", 
+                                "http://pastorsileniodesousa.blogspot.com/2011/03/urgente-oremos-por-carolina-varella-e.html", 
+                                "http://www.upenet.com.br/concursos/PREVUPE_11/doc/arcoverde.pdf", 
+                                "http://www.jusbrasil.com.br/diarios/2930054/dou-secao-1-16-10-1963-pg-36", 
+                                "http://www.betim.mg.gov.br/ARQUIVOS_ANEXO/diario12072011;0742;20110712.pdf", 
+                                "http://www.tjmg.jus.br/juridico/diario/index.jsp?dia=1609&completa=interior%7C0027", 
+                                "http://www.cmpa.tche.br/concurso/6ano_distribuicao_salas.pdf", 
+                                "http://www.fferj.com.br/Boletins-oficiais/Novembro-2006/30.doc", 
+                                "http://memoria.bn.br/pdfs/720020/per720020_1911_00030.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb63c"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Lucas dos Santos Luchiari",
+    "usp_number": "8084260",
+    "google_results_filtered": ["http://www.tmamericana.com.br/vitorias.htm", 
+                                "http://www.fptm.com.br/fptm/dados/anexos/775.html", 
+                                "http://www.fptm.com.br/fptm/dados/anexos/692.xls", 
+                                "http://p.download.uol.com.br/gustavoborges/10trof_americana_geral.doc"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb63d"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Luccas Henrique Braga de Almeida",
+    "usp_number": "7986796",
+    "google_results_filtered": ["http://www.fafich.ufmg.br/lagir/index.php?option=com_content&task=view&id=14&Itemid=33", 
+                                "http://www.barbacena.ifsudestemg.edu.br/sites/default/files/anexo_2_-_lista_de_espera_sisu.pdf", 
+                                "http://www.facebook.com/lucaas.leonardi", 
+                                "http://www.basketmg.com.br/wp-content/uploads/Notaoficial0132010.pdf", 
+                                "http://en.wikipedia.org/wiki/Portuguese_name", 
+                                "http://www.tjmg.jus.br/juridico/diario/index.jsp?dia=0411&completa=capital%7Cj2", 
+                                "http://www.carmounai.com.br/conteudo/ler_cont.php?id=1076", 
+                                "http://sinus.org.br/2012/equipe/", 
+                                "http://www.fadi.br/adm/arquivos_aprovados/6bhycnkv.pdf", 
+                                "http://www.policiacivil.rj.gov.br/delegacia.asp"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb63f"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Luciano Tochio Ferreira",
+    "usp_number": "5063010",
+    "google_results_filtered": ["http://www.cienciaviva.pt/img/upload/avioes_43_52.pdf", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6aa"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Luis Fernando Gomes Falleiros",
+    "usp_number": "5377344",
+    "google_results_filtered": ["http://luciofalleiros.com.br/index.php?option=com_content&view=category&id=37&layout=blog&Itemid=90&limitstart=35", 
+                                "http://luciofalleiros.com.br/index.php?option=com_content&view=category&layout=blog&id=44&Itemid=97&limitstart=30", 
+                                "http://www.jusbrasil.com.br/diarios/593634/dou-secao-3-29-05-2006-pg-115", 
+                                "http://steamcommunity.com/id/nandofalleiros?l=schinese", 
+                                "http://www.centraldeconcursos.com.br/docs/resultado/R_CEF-Franca-NM-20061006.pdf", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6ab"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Luis Gustavo Barichello Ferrassini",
+    "usp_number": "7987414",
+    "google_results_filtered": ["http://www.estrelladoeste.com.br/index.php?option=com_content&view=category&id=34&Itemid=72", 
+                                "http://www.estrelladoeste.com.br/", 
+                                "http://www.estrelladoeste.com.br/index.php?option=com_content&view=article&id=63&Itemid=75", 
+                                "http://www.estrelladoeste.com.br/index.php?option=com_content&view=article&id=114:congresso-macro-regional-2011&catid=34:ultimas-noticias&Itemid=72", 
+                                "http://www.jheysonroberto.com.br/cap_pdaluz/index.php/noticias/63-lancamento-do-novo-portal-do-scodb", 
+                                "http://imasters.com.br/artigo/12415/joomla/community-builder-12-em-portugues-para-joomla-15", 
+                                "http://demolaysp.net/portal/index.php?option=com_phocadownload&view=category&id=60:gesto-2009-2010&download=344:decreto-190-gesto-2009-2010-posse-captulo-estrella-d-oeste-n-36&Itemid=1", 
+                                "http://jpmabrasil.wordpress.com/2011/10/10/concurso-cultural-as-regras-do-jogo/"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb640"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Luiz Roberto Sgarbi Junior",
+    "usp_number": "7986611",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=6474", 
+                                "http://www.jusbrasil.com.br/diarios/31487456/dosp-executivo-caderno-1-15-10-2011-pg-130", 
+                                "http://www.jusbrasil.com.br/diarios/30906943/dosp-suplementos-24-09-2011-pg-15", 
+                                "http://acessa-jb.blogspot.com/view/classic"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6ac"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Marcelo Jorge Resegue",
+    "usp_number": "3467685",
+    "google_results_filtered": ["http://www.facebook.com/marcelo.resegue", 
+                                "http://www.facebook.com/people/Mikko-Marcelo/100000719511833", 
+                                "http://www.jusbrasil.com.br/diarios/30716887/djsp-judicial-1a-instancia-interior-parte-i-20-09-2011-pg-602", 
+                                "http://www.lia.ufc.br/~diego/recursos/FundProg/notas-ap1-fundprog-2011.1.pdf", 
+                                "http://www.prograd.ufrn.br/conteudo/documentos/resolucoes/inscries_deferidas.pdf", 
+                                "http://www.diariosoficiais.com/home/tribunal?ds=d4s4&dt=16-05-2011&page=7"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb672"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Marcio Goncalves de Araujo",
+    "usp_number": "5890441",
+    "google_results_filtered": ["http://instrumentosmusicais.ning.com/profile/marciogoncalvesdearaujo", 
+                                "http://www.fpc.ba.gov.br/sites/default/files/Edital%20004-2011%20PREMIO%20MAIS%20CULTURA%20-PONTOS%20DE%20LEITURA%20DO%20ESTADO%20DA%20BAHIA%20-INABILITADOS.pdf", 
+                                "http://www.tcm.ce.gov.br/transparencia/index.php/municipios/agpub/mun/060/versao/2011/letter/F", 
+                                "http://www.facebook.com/mercedes.m.deguzman", 
+                                "http://www.jusbrasil.com.br/diarios/24779529/stm-10-02-2011-pg-10", 
+                                "http://www.portugalio.com/automoveis-stands/vila-nova-de-cerveira/", 
+                                "http://www.orkut.com/CommMsgs?tid=2514806950716243305&cmm=8871990&hl=pt-BR", 
+                                "http://www.cinemaemcena.com.br/plus/modulos/noticias/ler.php?cdnoticia=42747", 
+                                "http://www.sinffaz.org.br/arquivos_up/Administraes_fazendrias_21112007.doc", 
+                                "http://winoficinas.com/wincar/wincar-os-nossos-clientes.html"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb688"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Marcos Eduardo Arroyos",
+    "usp_number": "8065817",
+    "google_results_filtered": ["http://desaocarlos.edunet.sp.gov.br/publicacoesdoe/2011/novembro/doe_26_11.htm", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/concursos2011/24-11-11-PMSC-Concursos-deferimento-inscricoes-PS-professor.pdf", 
+                                "http://desaocarlos.edunet.sp.gov.br/arquivos/APLICADORES%20SARESP.pdf", 
+                                "http://www.jusbrasil.com.br/diarios/32624710/dosp-executivo-caderno-1-26-11-2011-pg-57", 
+                                "http://www.lante.uff.br/uploads/Editais/Notas_Sele%C3%A7%C3%A3o_LANTE_2011_NTEM.pdf", 
+                                "http://www.visaoassessoria.com/sistema/arquivo/concurso/Edital_de_Inscries_Deferidas_e_Convocao_para_Provas.pdf", 
+                                "http://www.sindicatoapase.org.br/userfiles/file/2010/mar%C3%A7o/pg_0028.pdf", 
+                                "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4763039H8&idiomaExibicao=2", 
+                                "http://brasildo.com/diario-oficial-dos-estados/sao-paulo/executivo-caderno-ii/2011-12-06/p-52"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb689"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Maria Gabriela Cerqueira de Morais",
+    "usp_number": "8066381",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/25961234/dodf-secao-01-01-02-2011-pg-10", 
+                                "http://www.itouchbr.com.br/2010/12/05/iflash-adicione-um-flash-no-seu-aparelho/", 
+                                "http://www.educacional.com.br/alunos14/Ranking/novoRanking.asp?intPag=21&posicao=3001&intAno=2005", 
+                                "http://www.educacional.com.br/alunos14/Ranking/novoRanking.asp?intPag=26&posicao=3751&intAno=2006", 
+                                "http://www.educacional.com.br/alunos14/Ranking/novoRanking.asp?intPag=52&posicao=7651&intAno=2007"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb641"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Marilia Ferriolli Coser",
+    "usp_number": "8065797",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/20255044/dosp-legislativo-05-10-2010-pg-36", 
+                                "http://www.jusbrasil.com.br/diarios/5211257/dosp-legislativo-11-07-2008-pg-27", 
+                                "http://www.bjorl.org.br/Anais_41CBO/indicePorAutor.asp", 
+                                "http://www.integribrasil.com.br/arquivos/4381.pdf"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb68a"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Mario Thiago Favoretto Martiniano",
+    "usp_number": "5194048",
+    "google_results_filtered": ["http://www.saocarlos.sp.gov.br/images/stories/concursos2012/13-02-12-PMSC-Concurso-convocacao-provaobjetiva-CP376ao381.pdf", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/concursos2011/23-01-12-PMSC-Concurso-convocacao-provaobjetiva-CP370.pdf", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6ad"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Martha Caputo Savino Santolia Cancela",
+    "usp_number": "6426083",
+    "google_results_filtered": ["http://www.facebook.com/events/186872138025251/", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb673"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Mateus Canavez Testoni",
+    "usp_number": "8084277",
+    "google_results_filtered": ["http://galoeminhavida.com/2010/11/promocao-camisa-do-galo.html", 
+                                "http://ase-jf.com.br/index.php?url=aniversariantes", 
+                                "http://galoemeuamor.com.br/promocao-atletico-x-cruzeiro-palpite-premiado/", 
+                                "http://www.mgesportes.com.br/admin/arquivos_formularios/313-TB_FORMULARIO_EVENTO-arquivo_formulario_evento.pdf", 
+                                "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=B501650", 
+                                "http://www.nc.ufpr.br/concursos_institucionais/lem20102/homologados.htm", 
+                                "http://www.colegioregistralrs.org.br/cursos_concursos/concurso_saopaulo_deferidas.pdf", 
+                                "http://www.diariosoficiais.com/home/ler_diario_index?data=01%2F11%2F2010&diario=7&pdf=tjmg_interior_0625.dtxt&sessao=3"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb642"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Mateus Malvessi Pereira",
+    "usp_number": "7987161",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=14"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb643"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Mateus Riva",
+    "usp_number": "7987095",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Mateus-Riva/100000668308652", 
+                                "http://www.facebook.com/miss.humpalot069", 
+                                "http://twitter.com/mateusrva", 
+                                "http://www.jusbrasil.com.br/diarios/24010011/djsp-editais-e-leiloes-28-12-2010-pg-50", 
+                                "http://www.youtube.com/watch?v=gGoubwwAIB4", 
+                                "http://www.youtube.com/watch?v=IamadEcbits", 
+                                "http://www.denisecursino.com.br/site/exibefesta.php?idevento=832", 
+                                "http://www.familia.nardello.nom.br/descendentes/11-giuseppe-nardello.rtf", 
+                                "http://oneiacreations.blogspot.com/", 
+                                "http://blogdoiphone.com/aposta/", 
+                                "http://www.youtube.com/watch?v=gGoubwwAIB4", 
+                                "http://www.youtube.com/watch?v=IamadEcbits"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb644"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Mateus Seehagen Rodrigues",
+    "usp_number": "7986841",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=5860", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=3828&param2=3371&param3=6", 
+                                "http://docs.exdat.com/docs/index-191688.html?page=20", 
+                                "http://www.pt.backend.netlog.com/go/directory/people/01/s/26/56.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb645"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Matheus Fernandes Dubiniak",
+    "usp_number": "7986048",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=3911"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb674"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Matheus Henrique Soares",
+    "usp_number": "8066349",
+    "google_results_filtered": ["http://www.facebook.com/matehuss", 
+                                "http://pt-br.facebook.com/people/Matheus-Henrique-Soares/100002454766195", 
+                                "http://pt-br.facebook.com/matheus.h.pereira", 
+                                "http://pt-br.facebook.com/matheushgmpereira", 
+                                "http://www.coltec.ufmg.br/~fantini/coltec2012/todos_alunos_terceiro_ano.pdf", 
+                                "http://www.cosmopolitanofc.com.br/emdestaque.php?id=74", 
+                                "https://plus.google.com/101103830964281903544", 
+                                "http://www.obmep.org.br/classificadosAlunosFase2.do;jsessionid=FD308E7E173D290B18BFD13FAF330248?mecCode=26116634", 
+                                "http://admin.bloglog.globo.com/blog/post.do?act=loadSite&id=13844", 
+                                "http://exame3.ifal.edu.br/files/Suplentes_Campus_Murici.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb646"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Matheus Manganeli de Macedo",
+    "usp_number": "7986991",
+    "google_results_filtered": ["http://www.satc.edu.br/site/conteudo/edutec/inscricoes/classificados/1_ano_ensino_medio.pdf", 
+                                "http://futsal.terra.com.br/menores_2008/menores_ouro/a1_so.htm", 
+                                "http://www.artistasgauchos.com.br/portal/?nid=4699", 
+                                "http://www.universitariocachoeirinha.com.br/popup/resultado_simulado1.pdf", 
+                                "http://medico.cremerj.org.br/principal/index.php?page=resultBusca.php", 
+                                "http://www.jusbrasil.com.br/diarios/4226004/dosp-poder-executivo-02-08-1951-pg-50", 
+                                "http://webintra.aguasbr.com.br/publique/media/exclientes.pdf", 
+                                "http://www.tre-sc.gov.br/site/index9af5.html?id=9330&xmlpath=fileadmin/arquivos/eleicoes/eleicoes2010/mesarios_convocados/mesarios2010_2t/8089698.xml", 
+                                "http://eplconcursos.com.br/controle/arquivos/1300557264_edital%20de%20ensalamento%20n%2020.pdf", 
+                                "http://cnes.datasus.gov.br/Mod_Profissional.asp?VCo_Unidade=4205403534723"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb647"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Matheus Marques Pereira",
+    "usp_number": "8084180",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Matheus-Marques-Pereira/100002134355714", 
+                                "http://pt-br.facebook.com/people/Thairo-Matheus/100000929588667", 
+                                "http://www.facebook.com/people/Suzette-Marques/100000620352099", 
+                                "http://www.facebook.com/people/Matheus-Romanos-Benatti/675641157", 
+                                "http://www.canalrioclaro.com.br/?pg=noticia&id=5476", 
+                                "http://servicos.manaus.am.gov.br/Servicos2/src/escolas/consultarAlunosEscola.php?nome_escola=INSTITUTO%20BATISTA%20MONTE%20HOREBE", 
+                                "http://servicos.manaus.am.gov.br/Servicos2/src/escolas/consultarAlunosEscola.php?nome_escola=ESC.%20BATISTA%20ARCA%20DE%20NOE%20-%20EBAN", 
+                                "http://www.uesb.br/evidencias/2010/11/estagio/Jequi%C3%A9%20N%C3%ADvel%20M%C3%A9dio%20-%20Sala%2013.pdf", 
+                                "http://www.si.ifbaiano.edu.br/menu_institucional/processo_seletivo/resultado/agro.pdf", 
+                                "http://www.fetraconspar.org.br/eleicoes_2006/federais/03_despesas/02.htm"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb648"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Matheus Pinheiro Garcia Blanco",
+    "usp_number": "8065776",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=21"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb68b"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Mayara da Silva Xesquevixos",
+    "usp_number": "8066482",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Mayara-Xesquevixos/100001515714385", 
+                                "http://pt-br.facebook.com/people/Mayara-Bonifacio/100003367685350", 
+                                "http://www.facebook.com/family/de-Siqueira/1", 
+                                "http://www.crbm1.gov.br/bio73/r73_caderno29.asp"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb649"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Murilo Sarpa Brigante",
+    "usp_number": "3673208",
+    "google_results_filtered": ["http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb675"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Natalia Fernanda Poles",
+    "usp_number": "7986080",
+    "google_results_filtered": ["http://www.divamodels.com/default.aspx?pageId=3&action=divalist&category=she&subcategory=direct", 
+                                "http://www.volleywood.net/volleyball-related-news/venturini-is-back/", 
+                                "http://en.wikipedia.org/wiki/English_National_Ballet", 
+                                "http://beautycontests.blogspot.com/2011/11/miss-international-2011-maria-fernanda.html", 
+                                "http://www.welovets.com/", 
+                                "http://www.babycenter.com/baby-names-fernanda-11415.htm", 
+                                "http://www.fashionmodeldirectory.com/", 
+                                "http://www.facebook.com/natalia.mumford", 
+                                "http://www.realitytea.com/2011/09/23/millionaire-matchmaker-recap-teach-me-how-to-pole-dance/", 
+                                "http://www.poledancebrasil.com.br/onde-fazer/pole-dance-em-sao-paulo-capital/"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb68c"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Oscar Cardoso de Lima Neto",
+    "usp_number": "8065863",
+    "google_results_filtered": ["http://noticias.uol.com.br/ultnot/fernandorodrigues/051119/o.jhtm", 
+                                "http://soccernet.espn.go.com/report?id=315649", 
+                                "http://nabarca.com/noticias/lista-de-vereadores-e-divulgada-com-erro/", 
+                                "http://pt.wikipedia.org/wiki/Medeiros_Neto", 
+                                "http://www.apontador.com.br/em/ba_medeiros-neto/hospitais-e-postos-de-saude", 
+                                "http://www.luzilandiaonline.com.br/noticia.php?id=8378", 
+                                "http://www.sicoob.com.br/site/cooperativa/consulta_pesquisarPorSingular?descUf=BA&SortedColumn=0&Page=0&tmpSortedColumn=0&tmpPage=1&numCooperativa=3050", 
+                                "http://www.oitavobatalhao.com.br/index.php?option=com_content&view=article&id=4&Itemid=8", 
+                                "http://www.aumanack.com/index.php?option=com_content&view=article&id=293&Itemid=519", 
+                                "http://www1.saude.ba.gov.br/mapa_bahia/servicos/Dinamico/projeto3.asp?COD_MUN=292110"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb68d"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Osney Willians Taglialatela Regol\u00e3o Junior",
+    "usp_number": "5889428",
+    "google_results_filtered": ["http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6ae"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Otavio Guido Silva",
+    "usp_number": "7986879",
+    "google_results_filtered": ["http://en-gb.facebook.com/people/Ot%C3%A1vio-Guido-Silva/100000636153498", 
+                                "http://pt-br.facebook.com/siteotaviosilva", 
+                                "http://pt-br.facebook.com/otaviosp", 
+                                "https://pa-in.login.facebook.com/people/Guido-Silva/1646981351", 
+                                "http://pt-br.facebook.com/people/Wendel-Lemos-da-Silva/100003111727619", 
+                                "http://de-de.facebook.com/people/Guido-Franke/1567786169", 
+                                "http://nl-nl.facebook.com/guido.feyaerts", 
+                                "https://ml-in.register.facebook.com/people/Tatiane-da-Silva/100002665454218", 
+                                "http://docs.exdat.com/docs/index-191688.html?page=14", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=6251"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb64a"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Patricia Gilavert Fernandes",
+    "usp_number": "8065821",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Patricia-Gilavert-Fernandes/100002672037306", 
+                                "https://tl-ph.login.facebook.com/people/Patricia-Fernandes/100000568883242", 
+                                "https://pa-in.login.facebook.com/people/Lilian-Fernandes/100001998788554", 
+                                "http://ml-in.register.facebook.com/people/Marcela-Fernandes/100003381212972"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb68e"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Patrick Eduardo Scuracchio",
+    "usp_number": "7987178",
+    "google_results_filtered": ["http://www.facebook.com/family/Scuracchio/1", 
+                                "http://pt.wikipedia.org/wiki/Capacete_de_Ouro_2011", 
+                                "http://blogsportbrasil.blogspot.com/2009_01_01_archive.html", 
+                                "http://www.abril.com.br/arquivo/convocadostxt_cefet.pdf", 
+                                "http://cornerdoleao.blogspot.com/", 
+                                "http://cpansearch.perl.org/src/KCARNUT/Lingua-PT-Gender-1.03/t/good.txt", 
+                                "http://www.robertsracingdata.com/reports/RacesByWinnerC-D.pdf", 
+                                "http://www.rxx.co.il/TextPage.aspx?id=7592573", 
+                                "http://www.consbrasdc.org/imgup/form/titulosrezoneados.pdf", 
+                                "http://mestrejoca.blogspot.com/2009_11_01_archive.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb64b"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Paula Silveira Barbosa",
+    "usp_number": "7149412",
+    "google_results_filtered": ["http://pt-br.facebook.com/people/Ana-Paula-Silveira-Barbosa/100001635658564", 
+                                "http://pt-br.facebook.com/people/Paula-Silveira/100002444913285", 
+                                "https://ml-in.register.facebook.com/people/Paula-Silveira-Barbosa/100003584856733", 
+                                "http://www.drecolinas.xpg.com.br/DOCUMENTO.doc", 
+                                "http://www.revistaea.org/artigo.php?idartigo=966&class=02", 
+                                "http://dredecolinasdotocantins.blogspot.com/2011/06/cerimonia-de-conclusao-de-curso-saberes.html", 
+                                "http://dredecolinasdotocantins.blogspot.com/2011/06/dre-colinas-literatura-de-cordel-cada.html", 
+                                "http://www.jusbrasil.com.br/diarios/33114242/djro-13-12-2011-pg-133", 
+                                "http://portalarapo.com/2011/05/06/escolas-de-arapoema-participam-da-21%C2%AA-edicao-dos-jets/", 
+                                "http://www.secom.to.gov.br/noticia/2011/6/28/dre-de-colinas-promove-dia-do-cordel/"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb64c"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Paulo Augusto de Godoy Patire",
+    "usp_number": "7987060",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=6295"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb64d"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Paulo Victor de Souza Prado",
+    "usp_number": "8066648",
+    "google_results_filtered": ["http://pt-br.facebook.com/paulovictor.souzaa", 
+                                "http://pt-br.facebook.com/people/Paulo-Victor-de-Souza/100001835241300", 
+                                "http://pt-br.facebook.com/people/Paulo-Victor-Prado/100002876184678"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb64e"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Pedro Henrique Freire da Palma B Faraco",
+    "usp_number": "8066610",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=17", 
+                                "http://www.cespe.unb.br/concursos/trf1juiz2011/arquivos/ED_4_2011_TRF_1__RES_FINAL_NA_PER__CIA_M__DICA__INSCRI____O_PRELIMINAR_E_CONV_PROV_OBJ_SELETIVA.PDF", 
+                                "http://www.livrariamidas.com/produtos.php", 
+                                "http://consateste.acf.org.br/resources/consa/turmas_2012/listadeestudantes-educinfantilao1anodoensfund-2012.pdf", 
+                                "http://www.familiafaraco.garopaba.nom.br/correspondencia2005.htm", 
+                                "http://www.trf4.jus.br/trf4/upload/editor/apg_XIV_edital_inscr_preliminares_deferidas.pdf", 
+                                "http://g1.globo.com/especiais/eleicoes-2010/noticia/2010/09/sao-paulo-lista-de-candidatos-deputado-federal.html", 
+                                "http://www.bodesdoasfalto.org.br/faccao.asp", 
+                                "http://pt.scribd.com/doc/50117612/Copia-de-confrontantesbatataissafra2010", 
+                                "http://www.ajbmoron.org/joomla/images/sentencia.doc"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb64f"
+    }
+},
+{
+    "course_name": "Bacharelado em Matem\u00e1tica Aplicada e Computa\u00e7\u00e3o Cient\u00edfica",
+    "name": "Priscilla Lopes Carrijo",
+    "usp_number": "6551994",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=4751", 
+                                "http://www.docstoc.com/docs/3787397/ABDO-LATIF-FARES-3008405-434-49", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt"],
+    "course_code": "55060",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb666"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Rafael Alberto Fortunato",
+    "usp_number": "7987157",
+    "google_results_filtered": ["http://es-la.facebook.com/people/Rafael-Alberto-Fortunato/100001922881879", 
+                                "http://pt-pt.facebook.com/people/Alberto-Fortunato/100002975244363", 
+                                "http://www.facebook.com/people/Jhoana-Fortunato/100001232297932", 
+                                "http://it-it.facebook.com/alberto.fortunato3", 
+                                "http://www.facebook.com/rafael.revistual", 
+                                "http://www.facebook.com/people/Rafael-Alaban/100001532923307", 
+                                "http://es-la.facebook.com/people/Alberto-Urkola/630390755", 
+                                "http://filmow.com/usuario/rafaelfortunato/", 
+                                "http://www.objetivonovaodessa.net.br/noticias_desc.asp?id=160"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb650"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Rafael Augusto Tognetti",
+    "usp_number": "8066360",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=5829", 
+                                "http://estagio.sp.gov.br/Documentos/Classificados_Class_TEC_0052009.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb651"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Rafael Henrique Brunialti Hipolito",
+    "usp_number": "7572676",
+    "google_results_filtered": ["http://info.abril.com.br/forum-antigo/forum.php?topico=195769", 
+                                "http://www.kabum.com.br/cgi-local/kabum3/produtos/descricao.cgi?id=01:02:25:69:131&tag="],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6af"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Rafael de Carvalho Ceregatti de Console",
+    "usp_number": "7986222",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=5137", 
+                                "http://educadoresaprendentes-deribeiraopreto.blogspot.com/2010_05_14_archive.html"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb68f"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Renato Barreto de Menezes Rocha",
+    "usp_number": "7986903",
+    "google_results_filtered": ["http://www.herpetologynotes.seh-herpetology.org/contents4.html", 
+                                "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=S4671490", 
+                                "http://www.jusbrasil.com.br/diarios/2370111/dou-secao-1-16-05-1946-pg-78", 
+                                "http://en.wikipedia.org/wiki/List_of_Brazilian_footballers", 
+                                "http://www.telefonica.com.br/vgn-ext-templating/v/index.jsp?vgnextoid=314f93268f1f0210VgnVCM100000946ca8c0RCRD&vgnextchannel=314f93268f1f0210VgnVCM100000946ca8c0RCRD&op=FormCmd&codPSA=9ef0cd65cc92c110VgnVCM1000000d64d50a____&tipoCont=S", 
+                                "http://www.sbcj.org.br/index.cfm?ver=sociedade", 
+                                "http://www.redeprimavera.com.br/", 
+                                "http://www.zastros.com.br/Vip.aspx", 
+                                "http://p.download.uol.com.br/jc/_ne10/Lista-candidatos.pdf", 
+                                "http://www.tre-pb.gov.br/eleitor/cartorios.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb652"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Renato Destefani Bassi",
+    "usp_number": "5967703",
+    "google_results_filtered": ["http://pt-br.facebook.com/renato.bassi", 
+                                "http://www.facebook.com/upasana.bassi", 
+                                "http://pt-br.facebook.com/people/Renato-Canto/100002462493411", 
+                                "http://it-it.facebook.com/people/Cavalli-Renato/1605849810", 
+                                "http://lists.debian.org/debian-user-portuguese/2011/06/msg00160.html", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=3927", 
+                                "http://www.quedificil.com.br/quemsomos.php", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt", 
+                                "http://www.pinceladasdaweb.com.br/blog/2011/12/12/sorteio-livro-smashing-css/"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6b0"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Renato Dompieri Beltrao",
+    "usp_number": "7987327",
+    "google_results_filtered": ["http://pt-br.facebook.com/0renato", 
+                                "http://pt-br.facebook.com/people/Gabriela-A-Betiol-Ganzella/100001021759420"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb653"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Renato Silvestre Borella",
+    "usp_number": "7986671",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/24050086/dosp-executivo-caderno-1-07-01-2011-pg-212"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6b1"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Renato Takeshi Ishizava",
+    "usp_number": "8066590",
+    "google_results_filtered": ["http://judoateneumansor.blogspot.com/2011/10/medalhas-do-judo-em-jogos-pan.html", 
+                                "http://www3.servicos.ms.gov.br/saude_externo/downloads/PessoaFisica.xls", 
+                                "http://www.fpj.com.br/imagens_destaque/relacaoinscritos2011sub18(13).pdf", 
+                                "http://www.fpj.com.br/imagens_destaque/REL_INSCRITOS_ALFABETICA.pdf", 
+                                "http://www.fpj.com.br/noticias/2010_camp_paulista_sub15_inscr.pdf", 
+                                "http://www.jusbrasil.com.br/diarios/24898561/dosp-executivo-caderno-1-19-02-2011-pg-134", 
+                                "http://dj.stj.jus.br/20090713.pdf", 
+                                "http://www.crefito3.com.br/download/hab_alfa_lauda_dig.pdf", 
+                                "http://stat.correioweb.com.br/concursos/arquivos/crefito3060605.doc", 
+                                "http://cnes.datasus.gov.br/Mod_Ind_Profissional_Listar.asp?Vcbo=225125&VListar=1&VEstado=50&VMun="],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb654"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Ricardo Issamu Fukuda Gunzi",
+    "usp_number": "7986729",
+    "google_results_filtered": ["http://www.nc.ufpr.br/concursos_institucionais/ufpr/ps2008/resultado1fase/12.htm", 
+                                "http://www.nc.ufpr.br/concursos_institucionais/ufpr/ps2007/resultado1fase/5.htm"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb655"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Rita de Cassia Zacheo Barrofaldi",
+    "usp_number": "8066843",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/32373728/dosp-executivo-caderno-1-18-11-2011-pg-179", 
+                                "http://www.jusbrasil.com.br/diarios/30906941/dosp-suplementos-24-09-2011-pg-13", 
+                                "http://www.jusbrasil.com.br/diarios/31748341/dosp-suplementos-25-10-2011-pg-229", 
+                                "http://www.jusbrasil.com.br/diarios/325523/dou-secao-3-06-05-2005-pg-67", 
+                                "http://cnes.datasus.gov.br/Mod_Profissional.asp?VCo_Unidade=3525702039982", 
+                                "http://www.centraldeconcursos.com.br/docs/resultado/r_956_pm_sp_femenino_edital_result_1_9_20100915.pdf"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb676"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Rodolfo Megiato de Lima",
+    "usp_number": "7987286",
+    "google_results_filtered": ["http://www.clubeaec.com.br/noticia/aniversariantes_maio_10.htm", 
+                                "http://www.clubeaec.com.br/noticia/aniversariantes_maio_11.html", 
+                                "http://www.facebook.com/people/Rodolfo-Hinojosa/100002444816054", 
+                                "http://pt-br.facebook.com/people/Lourdes-Galan-Lima/100001217835823", 
+                                "http://de-de.facebook.com/people/Chantal-de-Boer/808879241", 
+                                "http://docs.exdat.com/docs/index-191688.html?page=14"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb656"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Rodrigo Cardia de Giuglio",
+    "usp_number": "5669707",
+    "google_results_filtered": ["http://www.iguape.sp.gov.br/novo_site/editais/concursos/2011/20111228150104.pdf", 
+                                "http://www.saocarlos.sp.gov.br/images/stories/concursos2011/23-01-12-PMSC-Concurso-convocacao-provaobjetiva-CP370.pdf", 
+                                "http://www.seletrix.com.br/arquivos/editais/relao-geral-das-inscries-homologadas-24112011.pdf", 
+                                "http://www.seletrix.com.br/arquivos/editais/relao-das-inscries-homologadas-aps-recursos-02122011.pdf", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=3927", 
+                                "http://www.institutomais.org.br/ckfinder/userfiles/files/RESULTADO%20FINAL%20-%20EDITAL%2002_2011%20_CARGOS%20APENAS%20COM%20PROVAS%20OBJETIVAS_.pdf", 
+                                "http://www.gsaconcursos.com.br/concursos/serranegra_012011/PMSN_RESULTADO_FINAL_FASE_UNICA.pdf", 
+                                "http://www.idealsol.com.br/PMTP/CP0012011/editaldeferimentoinscricoescppmtp0012011.pdf", 
+                                "http://www.institutocetro.org.br/Concursos/RibeiraoPreto_01_2011/Resultado.pdf", 
+                                "http://brasildo.com/diario-dos-municipios/sao-paulo/ribeirao-preto/2011-06-21/p-10"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6b2"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Rodrigo Rusa",
+    "usp_number": "7986970",
+    "google_results_filtered": ["http://www.facebook.com/people/Rodrigo-Thi-Ha/100001015686812", 
+                                "http://ka-ge.facebook.com/people/Rusa-Rusarusa/100000023331522", 
+                                "https://ml-in.register.facebook.com/people/Rusa-Tsalugelashvili/100001940452047", 
+                                "https://te-in.facebook.com/family/Rusa/6"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb658"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Rodrigo das Neves Bernardi",
+    "usp_number": "8066395",
+    "google_results_filtered": ["http://www1.montpellier.inra.fr/CBGP/acarologia/export_small_pdf.php?id=2016", 
+                                "http://www.rogerwillians.com.br/2012/01/da-lhe-tigre-dm-libera-hiroshi-e-chorao.html", 
+                                "http://www.formspring.me/RozangelaJ/connections", 
+                                "http://www.jusbrasil.com.br/diarios/8066767/dodf-secao-01-20-09-2010-pg-6", 
+                                "http://www.casabernardi.com.br/parceiros.php", 
+                                "http://blogmiltonneves.bol.uol.com.br/blog/2012/01/20/fotos-do-cruzeiro-de-tostao-viajando-de-trem-emocionantes/", 
+                                "http://www.samba-choro.com.br/partituras/pordatacontribuicao", 
+                                "http://adm-net-a.unifei.edu.br/intranet/includes/telefoneConsulta/relat_pdf.php", 
+                                "http://www.cnsa.com.br/nossa_escola_info.php?opcao=atendimento", 
+                                "http://radiomelasudas-beaumarchais.blogspot.com/2011/12/haydn-missa-sancti-bernardi-de-offida.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb657"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Romualdo Tadeu Marques de Jesus",
+    "usp_number": "6042832",
+    "google_results_filtered": ["http://www.faperp.org.br/admin/Upload/24102008091502Inscritos-Homologados.pdf", 
+                                "http://jcconcursos.uol.com.br/arquivos/pdf/SMS_Classificacao_Geral_I_16355.pdf", 
+                                "http://jcconcursos.uol.com.br/arquivos/pdf/SMS_Resultado_dos_recursos_e_classificacao_previa_16766.pdf", 
+                                "http://jcconcursos.uol.com.br/arquivos/pdf/CEETEPS_Final_20233.pdf", 
+                                "http://www.runnerbrasil.com.br/Calendario/2004/0627/DiaOlimpico/DiaOlimpico_M.txt", 
+                                "http://www.diariosoficiais.com/home/ler_diario_index?data=16%2F05%2F2011&diario=56&pdf=doesp_exec_1_2011_05_16_arq_1_pg_00131.html&sessao=1"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb690"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Rubens Abranches Filho",
+    "usp_number": "5713752",
+    "google_results_filtered": ["http://vimeo.com/8986203", 
+                                "http://vimeo.com/7846443", 
+                                "http://sites.google.com/site/abranchesengenharia/", 
+                                "http://sites.google.com/site/abranchesengenharia/in-the-news", 
+                                "http://pt-br.facebook.com/BlogMarcosBotelho", 
+                                "http://www.linkedin.com/directory/people/abranches-2.html", 
+                                "http://guidj0s.insomnia247.nl/code/nusp/base.txt", 
+                                "http://www.petitiononline.com/petitions/veto2008/signatures?page=408", 
+                                "http://pensebiblia.blogspot.com/2011_12_01_archive.html", 
+                                "http://vimeo.com/8986203", 
+                                "http://vimeo.com/7846443"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb677"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Suellen Aparecida Colangelo",
+    "usp_number": "7986584",
+    "google_results_filtered": ["http://pt-br.facebook.com/public/Suellen-Aparecida-Colangelo", 
+                                "http://portalazurra.blogspot.com/2007_06_01_archive.html", 
+                                "http://www.jusbrasil.com.br/diarios/3792652/dosp-executivo-caderno-1-13-05-2010-pg-132"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6b3"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Thiago Andre Ganacin",
+    "usp_number": "8066210",
+    "google_results_filtered": ["http://www.jusbrasil.com.br/diarios/26708187/dosp-executivo-caderno-1-13-05-2011-pg-129", 
+                                "http://www.jusbrasil.com.br/diarios/5646222/dou-secao-3-14-06-2010-pg-97", 
+                                "http://www.jusbrasil.com.br/diarios/23112914/dosp-legislativo-12-11-2010-pg-163", 
+                                "http://www.superconcurseiros.com.br/forum/123-bb/58208-rebb-banco-do-brasil-escriturariosp-2010.html", 
+                                "http://www.araraquara.sp.gov.br/ImageBank/FCKEditor/file/imprensa/NOVEMBRO_2011/9_Convocac%C3%A3o%20para%20entrega%20dos%20titulos.doc", 
+                                "http://www.araraquara.sp.gov.br/ImageBank/FCKEditor/file/imprensa/DEZEMBRO/12_Resultado%20Final%203.doc", 
+                                "http://www.ibamsp-concursos.org.br/inscricoes/documento.php?d=2693", 
+                                "http://cnes.datasus.gov.br/Mod_Profissional.asp?VCo_Unidade=3503203089622"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6b4"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Thiago Ledur Lima",
+    "usp_number": "8084214",
+    "google_results_filtered": ["http://www.forumpcs.com.br/comunidade/viewtopic.php?p=1621783", 
+                                "http://blogs.forumpcs.com.br/noticias/2006/04/06/chines-tenta-vender-a-alma-em-site-de-leilao-na-internet/", 
+                                "http://blogs.forumpcs.com.br/noticias/2005/01/25/gta-san-andreas-e-o-game-mais-vendido-de-2004/", 
+                                "http://www.euseiescrever.com.br/comunidade/viewtopic.php?p=1266002", 
+                                "http://www.euseiescrever.com.br/comunidade/viewtopic.php?t=133657&p=1219827", 
+                                "http://euseiescrever.com.br/comunidade/viewtopic.php?f=117&t=67997&start=10", 
+                                "http://www.forumdohardware.com.br/comunidade/viewtopic.php?t=114749", 
+                                "http://www.forumdohardware.com.br/comunidade/viewtopic.php?t=106099&p=1222882", 
+                                "http://www.forumdohardware.com.br/comunidade/viewtopic.php?t=51237", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=4936"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb659"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Thiago Ramos Biondo",
+    "usp_number": "8065842",
+    "google_results_filtered": ["http://cinefotografia.ning.com/profile/BrasmacThiago?xg_source=activity", 
+                                "http://bressanh.brtdata.com.br/list3136.html", 
+                                "http://perfil.limao.com.br/carinavalle", 
+                                "http://www.incorreggibili-love.fan-club.it/compleanno_manuel_ramos_p1069662.html", 
+                                "http://brazilmalemodels.blogspot.com/", 
+                                "http://brazilmalemodels.blogspot.com/2012/02/fernando-machado-by-thiago-merkle.html", 
+                                "http://www.novomomento.com.br/politicacritica.aspx", 
+                                "http://www.aprenderlivre.com.br/moodle/user/view.php?id=313&course=34", 
+                                "http://www.grupoestado.com.br/midiakit/estadao/index.asp?Fuseaction=Mkit_Equipe", 
+                                "http://carovecchiodiavolo.blogspot.com/2012/01/il-maicon-biondo.html"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb691"
+    }
+},
+{
+    "course_name": "Matem\u00e1tica",
+    "name": "Thiago Rodrigo Ramos",
+    "usp_number": "7987571",
+    "google_results_filtered": ["http://br.linkedin.com/pub/thiago-rodrigo-ramos-dos-santos/31/2b/604", 
+                                "http://en-gb.facebook.com/people/Rodrigo-Ramos/100001054021280", 
+                                "http://pt-br.facebook.com/people/Thiago-Eves-Cardoso/100003139175053", 
+                                "http://www.cinemais.com.br/promocoes/promo_result.php?cod=104", 
+                                "http://termo.espbr.com/termo/valdir+rafael+pereira", 
+                                "http://www.espbr.com/busca/valdir%20rafael%20pereira", 
+                                "http://napoleaobernardes.com.br/author/admin/page/45/", 
+                                "http://www.futebolsc.com/noticia/9535/0/para-seguir-com-chances-metropolitano-encara-o-brusque", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=5865", 
+                                "http://www.clicrbs.com.br/anoticia/jsp/default.jsp?uf=2&local=18&section=Esportes&newsID=a2700146.xml"],
+    "course_code": "55030",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb678"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Victor Eiji Tokubo",
+    "usp_number": "7986497",
+    "google_results_filtered": ["http://www.educacional.com.br/alunos14/Ranking/novoRanking.asp?intPag=7&posicao=901&intAno=2004", 
+                                "http://www.educacional.com.br/alunos14/Ranking/novoRanking.asp?intPag=9&posicao=1201&intAno=2005", 
+                                "http://www.educacional.com.br/alunos14/Ranking/novoRanking.asp?intPag=54&posicao=7951&intAno=2008"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6b5"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Victor Limongi Aguiar",
+    "usp_number": "4525782",
+    "google_results_filtered": ["http://br.linkedin.com/pub/vitor-limongi-ara%C3%BAjo/40/6ba/233", 
+                                "http://br.linkedin.com/pub/dir/+/Limongi", 
+                                "http://narapisa.blogspot.com/2011/12/entrevista-exclusiva-o-ator-victor.html", 
+                                "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=E2332979", 
+                                "http://buscatextual.cnpq.br/buscatextual/cv?id=3112990156439975", 
+                                "http://www.youblisher.com/files/publications/8/44577/pdf.pdf", 
+                                "http://sambaquis.blogspot.com/2009/03/andre-ricardo-aguiar-queima-roupa.html", 
+                                "http://www.lasallesaocarlos.com.br/jornal/view.asp?cod=%201187", 
+                                "http://pedrinhoaguiar.wordpress.com/2012/02/28/o-musico-martinicano-kali-se-apresenta-em-manaus/", 
+                                "http://www.camarasaocarlos.sp.gov.br/portal/index.php/component/banners/click/9.html"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb65a"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Vinicius Marchesin Araujo",
+    "usp_number": "8066374",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=6219"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb65b"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Vinicius Roberto de Farias Costa",
+    "usp_number": "7144021",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=6295"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6b6"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Vitor Augusto Pastor Carneiro",
+    "usp_number": "8066183",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3809&param3=5004", 
+                                "http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=5004"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6b7"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Vitor Hiroaki Yoshioka",
+    "usp_number": "8066291",
+    "google_results_filtered": ["http://www.sherdog.com/fighter/Hiroaki-Yoshioka-1269", 
+                                "http://www.mendeley.com/research/sizeselective-synthesis-air-stable-colloidal-magnetic-cobalt-nanoparticles-1/", 
+                                "http://www.x-shooto.jp/english/", 
+                                "http://www.quebrada.net/videos/Shooto1.html", 
+                                "http://www.pwchronicles.com/links/mma/Shooto.htm", 
+                                "http://www.reocities.com/pipeline/rapids/9146/nhbpage2.html", 
+                                "http://www.opticsinfobase.org/ocisdirectory/140_2050.cfm", 
+                                "http://www.jusbrasil.com.br/diarios/5178448/dosp-cidade-27-02-2010-pg-62", 
+                                "http://ko.susumug.com/event/145/1083/16", 
+                                "http://www.phs.osaka-u.ac.jp/research/pdf_achievement/02_gyoseki.pdf"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb65c"
+    }
+},
+{
+    "course_name": "Bacharelado em Estat\u00edstica",
+    "name": "Vitor Millani Negrao Bonini",
+    "usp_number": "8065859",
+    "google_results_filtered": ["http://www.fpb.com.br/_dynamics/estatisticas/cestinhas_base.asp?codcamp=340"],
+    "course_code": "55070",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb692"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Vitor Rico Moyano Ferrari",
+    "usp_number": "7987348",
+    "google_results_filtered": ["http://www.nacionalnet.com.br/portal/default.asp?cod_system=4&cod_funcao=11&param1=4534&param2=3810&param3=6220"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb65d"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "Weslei Renato de Lima",
+    "usp_number": "6511258",
+    "google_results_filtered": ["http://en-gb.facebook.com/people/Wesley-de-Lange/100002212683105", 
+                                "http://www.youtube.com/watch?v=_8zhT6G2Zuk", 
+                                "http://www.youtube.com/watch?v=DVyxsmWcfwc", 
+                                "http://pbrnow.com.br/home/2011/noticias/elton-cide-e-wesley-lourenco-em-new-york/", 
+                                "http://www2.cbf.com.br/php/acumulado.php?c=00010PE", 
+                                "http://www.fab.mil.br/portal/cabine/publicacoes/notaer_promof_ago10.pdf", 
+                                "http://dl.acm.org/citation.cfm?id=553876", 
+                                "http://www.findmmagym.com/mmagym-florida/wesley-chapel-mixed-martial-arts.html", 
+                                "http://www.hurnp.uel.br/arquivos/residencia-fisio/resultado_fisio_2010.pdf", 
+                                "http://www.ipb.org.br/ver_igrejas.php3?b_estado=SP", 
+                                "http://www.youtube.com/watch?v=_8zhT6G2Zuk", 
+                                "http://www.youtube.com/watch?v=DVyxsmWcfwc"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb65e"
+    }
+},
+{
+    "course_name": "Bacharelado em Ci\u00eancias de Computa\u00e7\u00e3o",
+    "name": "William Victor Ueta Ausenka",
+    "usp_number": "8066266",
+    "google_results_filtered": ["http://docs.exdat.com/docs/index-191688.html?page=15"],
+    "course_code": "55041",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb65f"
+    }
+},
+{
+    "course_name": "Bacharelado em Inform\u00e1tica",
+    "name": "Willian Fagner de Souza Policiano",
+    "usp_number": "8066190",
+    "google_results_filtered": ["http://br.linkedin.com/pub/willian-fagner-de-souza-policiano/41/54b/362", 
+                                "http://www.linkedin.com/directory/people/desouzapinto.html"],
+    "course_code": "55051",
+    "_id": {
+        "$oid": "4f4d2d91600822d7181cb6b8"
+    }
+}
+];
